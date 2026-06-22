@@ -26,6 +26,17 @@ Core focus areas:
 - Internal documentation, knowledge capture, and support process design
 - React, TypeScript, Vite, Supabase, and Firebase for operational dashboards
 
+## Active Projects
+
+- [cloud-resource-guard](https://github.com/stokie2605/cloud-resource-guard)  
+  Python compliance scanner that simulates cloud resource governance, flags public SSH/RDP exposure, and identifies orphaned storage cost risks.
+
+- [msp-alert-bridge](https://github.com/stokie2605/msp-alert-bridge)  
+  TypeScript alert-forwarding bridge for MSP workflows, normalizing monitoring payloads before routing them to downstream webhook destinations.
+
+- [it-asset-db-api](https://github.com/stokie2605/it-asset-db-api)  
+  SQLite-backed Python asset register for tracking hardware inventory and querying devices by department.
+
 ## Core Portfolio Categories
 
 ### 🛠️ IT & Support Automation
