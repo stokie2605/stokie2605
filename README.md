@@ -1,91 +1,75 @@
-# Dean Wilshaw
+# Welcome to Dean's IT & DevOps Portfolio
 
-## IT Infrastructure & Automation Specialist
+Hi, I'm Dean. This profile showcases practical IT, DevOps, cloud governance, and infrastructure automation projects built around real operational problems.
 
-UK-based infrastructure and automation specialist focused on the Windows ecosystem, PowerShell scripting, and operational efficiency.
+I focus on tools that reduce manual workload, improve visibility, surface risk, and make technical workflows easier to verify. The portfolio combines backend automation, cloud cost analysis, containerization, dashboards, and support-focused operational tooling.
 
-I build practical tools that reduce manual technical workload, turn repeatable support tasks into documented automation, and make infrastructure easier to monitor, manage, and improve. My work is aimed at the reality of busy IT teams: fewer repetitive checks, clearer operational visibility, faster triage, and better evidence for every support workflow.
+## 🚀 Featured Project
 
-I am especially interested in environments where Managed Service Providers, internal IT teams, and operations leaders need clean systems, repeatable processes, and infrastructure managed through code instead of memory.
+### [Cloud Cost Guardian](https://github.com/stokie2605/cloud-cost-guardian)
 
-## Technical Toolkit
+Cloud Cost Guardian is a multi-disciplinary cloud governance project that simulates enterprise infrastructure audits and turns cost/security findings into usable reports and dashboard views.
 
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-003B57?style=for-the-badge&logo=microsoft&logoColor=white)
+- **Python-based cloud compliance and governance scanner**
+  - Generates mock AWS/Azure-style infrastructure data
+  - Detects orphaned storage, idle databases, underutilized compute, and public exposure risks
+  - Calculates monthly and annualized cloud waste, including a simulated **$413.81/month** and **$4,965.72/year** optimization opportunity
+
+- **Interactive React frontend dashboard**
+  - Executive metric banner for monthly and annualized waste
+  - Searchable findings table for resources, regions, monthly cost, and optimization status
+  - Executive-to-JSON view toggle for both leadership reporting and technical inspection
+
+- **Production Docker containerization**
+  - Lightweight `python:3.11-slim` image
+  - Docker Compose service for repeatable local execution
+  - Host volume mapping so generated reports persist outside the container
+
+## Project Ecosystem
+
+| Project | Focus Area | Stack |
+| --- | --- | --- |
+| [cloud-cost-guardian](https://github.com/stokie2605/cloud-cost-guardian) | Cloud cost governance, security exposure scanning, Dockerized reporting, React dashboard | Python, React, Docker, JSON, Markdown |
+| [cloud-resource-guard](https://github.com/stokie2605/cloud-resource-guard) | Cloud resource governance simulation, public SSH/RDP exposure checks, orphaned storage risk detection | Python, CLI tooling, cloud governance concepts |
+| [it-asset-db-api](https://github.com/stokie2605/it-asset-db-api) | IT asset inventory and backend API-style querying | Python, SQLite, data handling |
+| [msp-alert-bridge](https://github.com/stokie2605/msp-alert-bridge) | MSP alert normalization and webhook routing workflows | TypeScript, webhooks, operational automation |
+| [uptime-ping-monitor](https://github.com/stokie2605/uptime-ping-monitor) | Endpoint and service availability monitoring simulation | Python, monitoring concepts, reporting |
+| [it-support-automation](https://github.com/stokie2605/it-support-automation) | Workstation health checks, safe cleanup, and technician-ready reports | Python, IT automation, CLI workflows |
+| [powershell-it-automation](https://github.com/stokie2605/powershell-it-automation) | Windows administration automation patterns | PowerShell, Windows CLI, support operations |
+| [it-ticket-dashboard](https://github.com/stokie2605/it-ticket-dashboard) | Service desk visibility and queue management dashboard | React, dashboard UI, support workflows |
+| [it-knowledge-base](https://github.com/stokie2605/it-knowledge-base) | Internal documentation and technician knowledge capture | Frontend UI, documentation systems |
+| [user-provisioning-simulator](https://github.com/stokie2605/user-provisioning-simulator) | IAM onboarding and access group simulation | Identity workflows, operational logic |
+
+## Core Technical Toolkit
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows%20CLI-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-Core focus areas:
+Core working areas:
 
-- Windows administration and endpoint support workflows
-- PowerShell and scripting-led operational automation
-- Active Directory-style identity and access workflows
-- Infrastructure monitoring and service desk visibility
-- Internal documentation, knowledge capture, and support process design
-- React, TypeScript, Vite, Supabase, and Firebase for operational dashboards
-
-## Active Projects
-
-- [cloud-resource-guard](https://github.com/stokie2605/cloud-resource-guard)  
-  Python compliance scanner that simulates cloud resource governance, flags public SSH/RDP exposure, and identifies orphaned storage cost risks.
-
-- [msp-alert-bridge](https://github.com/stokie2605/msp-alert-bridge)  
-  TypeScript alert-forwarding bridge for MSP workflows, normalizing monitoring payloads before routing them to downstream webhook destinations.
-
-- [it-asset-db-api](https://github.com/stokie2605/it-asset-db-api)  
-  SQLite-backed Python asset register for tracking hardware inventory and querying devices by department.
-
-## Core Portfolio Categories
-
-### 🛠️ IT & Support Automation
-
-Tools and simulations focused on reducing repetitive support effort, improving workstation maintenance, and giving technicians clearer infrastructure signals.
-
-- [uptime-ping-monitor](https://github.com/stokie2605/uptime-ping-monitor)  
-  Infrastructure health dashboard simulating endpoint uptime, latency, outage detection, and remediation logging.
-
-- [powershell-it-automation](https://github.com/stokie2605/powershell-it-automation)  
-  Windows IT administration automation toolkit covering local workspace deployment, system audit patterns, cache cleanup, and network diagnostics.
-
-- [it-support-automation](https://github.com/stokie2605/it-support-automation)  
-  Python-based workstation health check utility that audits system details, checks disk capacity, performs safe cleanup, and generates technician-ready reports.
-
-### 📊 Operational Dashboards
-
-Frontline IT dashboards that turn support activity, documentation, and IAM workflows into clearer operational views.
-
-- [it-ticket-dashboard](https://github.com/stokie2605/it-ticket-dashboard)  
-  Service desk dashboard for ticket intake, queue visibility, priority tracking, and resolution documentation.
-
-- [it-knowledge-base](https://github.com/stokie2605/it-knowledge-base)  
-  Searchable internal knowledge base for standard operating procedures, verified fixes, and technician onboarding support.
-
-- [user-provisioning-simulator](https://github.com/stokie2605/user-provisioning-simulator)  
-  IAM onboarding simulator that models Active Directory-style account creation, department-based access groups, and temporary password generation.
-
-### 🚀 Specialized Applications
-
-Applied operational products that show how technical systems can support real-world service delivery, compliance, and workflow control.
-
-- [save-our-supper](https://github.com/stokie2605/save-our-supper)  
-  Firebase-backed foodbank referral workflow for partner intake, role-based access, live queue management, and collection tracking.
-
-- [drivecoach-pro](https://github.com/stokie2605/drivecoach-pro)  
-  Hazard reaction training simulator for driving instructors, measuring intervention timing against defined safety windows.
+- **Python:** backend scripting, JSON processing, cloud governance simulations, CLI reporting tools
+- **JavaScript / React:** interactive dashboards, searchable data views, frontend portfolio interfaces
+- **Docker:** containerized execution, Docker Compose workflows, host volume mapping for persistent reports
+- **Git / GitHub:** repository management, project history, public technical documentation
+- **Linux / Windows CLI workflows:** terminal-based development, PowerShell automation, local environment setup
 
 ## What I Build For
 
-I build for teams that need reliability without ceremony:
+I build for teams that need practical visibility and repeatable workflows:
 
-- MSPs that want repeatable technician workflows.
-- IT Directors who need clearer visibility across support queues and infrastructure risk.
-- Service desks trying to reduce repetitive manual admin.
-- Operations teams that need simple dashboards, clean documentation, and practical automation.
+- IT Directors who need clearer infrastructure and operational risk signals
+- DevOps teams looking for automation, reporting, and containerized utility tooling
+- MSPs and service desks trying to reduce repetitive manual checks
+- Support teams that need clean documentation, evidence, and reliable processes
 
 ## Current Direction
 
-I am continuing to develop portfolio projects around infrastructure automation, Windows support operations, service desk process improvement, and production-ready internal tools.
+I am continuing to develop portfolio projects around infrastructure automation, cloud governance, service desk operations, and production-ready internal tools.
 
-The goal is simple: remove avoidable manual burden, make technical work easier to verify, and help IT teams run cleaner, faster, and with fewer surprises.
+The goal is simple: reduce avoidable manual burden, make technical work easier to verify, and help IT teams run cleaner, faster, and with fewer surprises.
