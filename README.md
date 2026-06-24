@@ -1,75 +1,58 @@
-# Welcome to Dean's IT & DevOps Portfolio
+# Hi, I'm Dean Wilshaw
 
-Hi, I'm Dean. This profile showcases practical IT, DevOps, cloud governance, and infrastructure automation projects built around real operational problems.
+Welcome to my DevOps & Systems Engineering portfolio.
 
-I focus on tools that reduce manual workload, improve visibility, surface risk, and make technical workflows easier to verify. The portfolio combines backend automation, cloud cost analysis, containerization, dashboards, and support-focused operational tooling.
+I build practical tools across **IT Automation**, **Cloud Infrastructure**, and **Data Pipelines**. My projects focus on the kind of work technical teams deal with every day: reducing manual support tasks, improving visibility, detecting infrastructure risk, documenting evidence, and turning raw operational data into useful decisions.
 
-## 🚀 Featured Project
+## Portfolio Dashboard
 
-### [Cloud Cost Guardian](https://github.com/stokie2605/cloud-cost-guardian)
+### 🛡️ Cloud Infrastructure & FinOps
 
-Cloud Cost Guardian is a multi-disciplinary cloud governance project that simulates enterprise infrastructure audits and turns cost/security findings into usable reports and dashboard views.
-
-- **Python-based cloud compliance and governance scanner**
-  - Generates mock AWS/Azure-style infrastructure data
-  - Detects orphaned storage, idle databases, underutilized compute, and public exposure risks
-  - Calculates monthly and annualized cloud waste, including a simulated **$413.81/month** and **$4,965.72/year** optimization opportunity
-
-- **Interactive React frontend dashboard**
-  - Executive metric banner for monthly and annualized waste
-  - Searchable findings table for resources, regions, monthly cost, and optimization status
-  - Executive-to-JSON view toggle for both leadership reporting and technical inspection
-
-- **Production Docker containerization**
-  - Lightweight `python:3.11-slim` image
-  - Docker Compose service for repeatable local execution
-  - Host volume mapping so generated reports persist outside the container
-
-## Project Ecosystem
-
-| Project | Focus Area | Stack |
+| Project | What It Solves | Core Stack |
 | --- | --- | --- |
-| [cloud-cost-guardian](https://github.com/stokie2605/cloud-cost-guardian) | Cloud cost governance, security exposure scanning, Dockerized reporting, React dashboard | Python, React, Docker, JSON, Markdown |
-| [cloud-resource-guard](https://github.com/stokie2605/cloud-resource-guard) | Cloud resource governance simulation, public SSH/RDP exposure checks, orphaned storage risk detection | Python, CLI tooling, cloud governance concepts |
-| [it-asset-db-api](https://github.com/stokie2605/it-asset-db-api) | IT asset inventory and backend API-style querying | Python, SQLite, data handling |
-| [msp-alert-bridge](https://github.com/stokie2605/msp-alert-bridge) | MSP alert normalization and webhook routing workflows | TypeScript, webhooks, operational automation |
-| [uptime-ping-monitor](https://github.com/stokie2605/uptime-ping-monitor) | Endpoint and service availability monitoring simulation | Python, monitoring concepts, reporting |
-| [it-support-automation](https://github.com/stokie2605/it-support-automation) | Workstation health checks, safe cleanup, and technician-ready reports | Python, IT automation, CLI workflows |
-| [powershell-it-automation](https://github.com/stokie2605/powershell-it-automation) | Windows administration automation patterns | PowerShell, Windows CLI, support operations |
-| [it-ticket-dashboard](https://github.com/stokie2605/it-ticket-dashboard) | Service desk visibility and queue management dashboard | React, dashboard UI, support workflows |
-| [it-knowledge-base](https://github.com/stokie2605/it-knowledge-base) | Internal documentation and technician knowledge capture | Frontend UI, documentation systems |
-| [user-provisioning-simulator](https://github.com/stokie2605/user-provisioning-simulator) | IAM onboarding and access group simulation | Identity workflows, operational logic |
+| [cloud-cost-guardian](https://github.com/stokie2605/cloud-cost-guardian) | Detects cloud cost leaks and public exposure risks, then turns them into Markdown, JSON, Dockerized reports, and a React executive dashboard. | Python, React, Vite, Docker, JSON |
+| [cloud-resource-guard](https://github.com/stokie2605/cloud-resource-guard) | Simulates cloud compliance checks for public SSH/RDP exposure, orphaned resources, and high-priority remediation evidence. | Python, CLI, Cloud Governance |
 
-## Core Technical Toolkit
+### 🤖 Systems & IT Automation
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows%20CLI-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+| Project | What It Solves | Core Stack |
+| --- | --- | --- |
+| [powershell-it-automation](https://github.com/stokie2605/powershell-it-automation) | Demonstrates safe Windows administration automation for workspace setup, disk checks, cleanup simulation, and operational logging. | PowerShell, Windows CLI |
+| [it-support-automation](https://github.com/stokie2605/it-support-automation) | Runs technician-style workstation health checks and produces clean evidence logs for repeatable support workflows. | Python, CLI, IT Operations |
+| [it-ticket-dashboard](https://github.com/stokie2605/it-ticket-dashboard) | Provides a service desk dashboard for triaging active tickets, reviewing queue metrics, and tracking resolution workflow. | React, Vite, Supabase |
+| [user-provisioning-simulator](https://github.com/stokie2605/user-provisioning-simulator) | Simulates IAM onboarding logic including username generation, Active Directory group mapping, and home directory rules. | React, Vite, IAM Logic |
 
-Core working areas:
+### 📡 Integration, APIs & Data
 
-- **Python:** backend scripting, JSON processing, cloud governance simulations, CLI reporting tools
-- **JavaScript / React:** interactive dashboards, searchable data views, frontend portfolio interfaces
-- **Docker:** containerized execution, Docker Compose workflows, host volume mapping for persistent reports
-- **Git / GitHub:** repository management, project history, public technical documentation
-- **Linux / Windows CLI workflows:** terminal-based development, PowerShell automation, local environment setup
+| Project | What It Solves | Core Stack |
+| --- | --- | --- |
+| [hn-scraper-task](https://github.com/stokie2605/hn-scraper-task) | Scrapes Hacker News with retry-aware network logic and Cheerio DOM parsing for reliable structured data extraction. | Node.js, Cheerio, HTML Parsing |
+| [msp-alert-bridge](https://github.com/stokie2605/msp-alert-bridge) | Normalizes raw MSP alert payloads into clean webhook-ready JSON for routing, triage, and downstream automation. | TypeScript, Node.js, API Workflows |
+| [it-asset-db-api](https://github.com/stokie2605/it-asset-db-api) | Provides a lightweight asset inventory backend using SQLite queries to return department-filtered IT asset data. | Python, SQLite, API-style Data |
+| [it-knowledge-base](https://github.com/stokie2605/it-knowledge-base) | Presents internal technical documentation in a clean knowledge-base interface for support teams and operational handover. | React, Documentation UI |
 
-## What I Build For
+## Featured Build: Cloud Cost Guardian
 
-I build for teams that need practical visibility and repeatable workflows:
+Cloud Cost Guardian is the flagship portfolio project because it brings the whole stack together:
 
-- IT Directors who need clearer infrastructure and operational risk signals
-- DevOps teams looking for automation, reporting, and containerized utility tooling
-- MSPs and service desks trying to reduce repetitive manual checks
-- Support teams that need clean documentation, evidence, and reliable processes
+- **Python scanner:** generates mock AWS/Azure-style infrastructure data and detects cost, security, and utilization findings.
+- **React dashboard:** visualizes total monthly waste, annualized waste, public exposures, and prioritized remediation status.
+- **Docker deployment:** packages the scanner into a repeatable container workflow with host-mounted report output.
+- **Dual reporting:** exports both technician-ready Markdown reports and raw JSON summaries for automation pipelines.
 
-## Current Direction
+## Core Tech Stack
 
-I am continuing to develop portfolio projects around infrastructure automation, cloud governance, service desk operations, and production-ready internal tools.
+| Area | Tools & Workflows |
+| --- | --- |
+| Backend & Scripting | Python, Node.js, TypeScript, JSON processing, CLI utilities |
+| Frontend Dashboards | React, Vite, searchable tables, operational UI patterns |
+| IT Automation | PowerShell, Windows CLI, Linux-style terminal workflows, health checks |
+| Cloud & DevOps | Docker, Docker Compose, cloud governance concepts, FinOps simulations |
+| Data & APIs | SQLite, webhook payloads, structured API responses, Cheerio HTML parsing |
+| Source Control | Git, GitHub, clean commits, portfolio-grade README documentation |
 
-The goal is simple: reduce avoidable manual burden, make technical work easier to verify, and help IT teams run cleaner, faster, and with fewer surprises.
+## How I Think About Projects
+
+I like building tools that are easy to run, easy to verify, and easy to explain to both technical and non-technical stakeholders.
+
+The common thread across this portfolio is practical operational value: fewer repetitive checks, clearer evidence, better infrastructure visibility, and cleaner handover between IT support, DevOps, and engineering teams.
