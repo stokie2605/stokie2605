@@ -35,6 +35,8 @@ I’m an Entry-Level Developer focused on IT automation, cloud operations, and b
 | [MSP Alert Bridge](https://github.com/stokie2605/msp-alert-bridge) | Normalizes MSP alert payloads into webhook-ready JSON for routing and triage. | TypeScript, Node.js |
 | [IT Asset DB API](https://github.com/stokie2605/it-asset-db-api) | FastAPI REST backend for IT asset tracking. | Python, FastAPI, Docker, SQLite |
 | [IT Asset DB Frontend](https://github.com/stokie2605/it-asset-db-frontend) | Full-stack React dashboard that consumes the Asset API. | React, Vite, CSS |
+| [Serverless Support Bot](https://github.com/stokie2605/serverless-support-bot) | AWS Lambda-ready ChatOps webhook bot for simulated Slack IT support commands and live diagnostics. | Python, FastAPI, Mangum, Docker |
+| [StaffRota](https://github.com/stokie2605/staff-rota) | Full-stack shift and rota management system built for NHS, warehouse, and call centre scheduling use cases. | Python, FastAPI, React, SQLite, Docker |
 
 ## How I Build
 
