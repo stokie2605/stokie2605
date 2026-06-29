@@ -1,8 +1,6 @@
 # Hello, I am Dean.
 
-Junior Developer focused on **IT automation, cloud operations, DevOps workflows, and practical dashboards for support teams**.
-
-I build tools that reduce repetitive checks, surface infrastructure risk, and turn operational data into evidence that teams can act on. My strongest work sits where IT support meets engineering: cloud cost visibility, service desk workflows, scheduled automation, monitoring, and clean handover documentation.
+I’m an Entry-Level Developer focused on IT automation, cloud operations, and building practical tools for support teams. I like building things that actually solve problems—like automating repetitive checks, tracking cloud costs, and building dashboards so teams can see what's going on. Most of my projects sit right between IT support and engineering, using tools like React, FastAPI, and Docker. I'm currently working hard to break into the IT industry full-time, so I spend my time teaching myself modern cloud skills and building projects that prove I can do the work.
 
 ## Start Here
 
