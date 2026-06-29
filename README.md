@@ -1,4 +1,4 @@
-# Hi, I'm Dean Wilshaw
+# Hello, I am Dean.
 
 Junior Developer focused on **IT automation, cloud operations, DevOps workflows, and practical dashboards for support teams**.
 
