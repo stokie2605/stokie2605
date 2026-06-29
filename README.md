@@ -33,7 +33,8 @@ I’m an Entry-Level Developer focused on IT automation, cloud operations, and b
 | [User Provisioning Simulator](https://github.com/stokie2605/user-provisioning-simulator) | Models IAM onboarding logic for usernames, corporate emails, temporary credentials, and groups. | React, Vite |
 | [IT Knowledge Base](https://github.com/stokie2605/it-knowledge-base) | Internal support documentation interface for repeatable helpdesk knowledge. | React |
 | [MSP Alert Bridge](https://github.com/stokie2605/msp-alert-bridge) | Normalizes MSP alert payloads into webhook-ready JSON for routing and triage. | TypeScript, Node.js |
-| [IT Asset DB API](https://github.com/stokie2605/it-asset-db-api) | Lightweight SQLite-backed asset inventory API. | Python, SQLite |
+| [IT Asset DB API](https://github.com/stokie2605/it-asset-db-api) | FastAPI REST backend for IT asset tracking. | Python, FastAPI, Docker, SQLite |
+| [IT Asset DB Frontend](https://github.com/stokie2605/it-asset-db-frontend) | Full-stack React dashboard that consumes the Asset API. | React, Vite, CSS |
 
 ## How I Build
 
