@@ -42,3 +42,8 @@ I build tools that reduce repetitive checks, surface infrastructure risk, and tu
 I try to make each project reviewable without guesswork: clear problem statement, visible stack, screenshots or live demos where useful, exact run commands, CI/CD checks where appropriate, and notes about what would be needed for production.
 
 The common thread is practical operational value: fewer repetitive checks, clearer evidence, better infrastructure visibility, and cleaner handover between IT support, DevOps, and engineering teams.
+
+## Portfolio Log
+
+Recent cross-repo polish is tracked in [PORTFOLIO_CHANGELOG.md](PORTFOLIO_CHANGELOG.md).
+
