@@ -11,7 +11,7 @@ I’m an Entry-Level Developer focused on IT automation, cloud operations, and b
 | [Save Our Supper](https://github.com/stokie2605/save-our-supper) | Firebase-backed foodbank referral workflow with roles, live queues, and public collection status. | React, TypeScript, Firebase | [Live app](https://save-our-supper.web.app/) |
 | [IT Ticket Dashboard](https://github.com/stokie2605/it-ticket-dashboard) | Service desk dashboard for logging, triaging, resolving, and reviewing IT incidents. | React, Vite, Supabase | [Live demo](https://it-ticket-dashboard.vercel.app) |
 | [Uptime Ping Monitor](https://github.com/stokie2605/uptime-ping-monitor) | Infrastructure monitoring dashboard for uptime checks, outage states, recovery actions, and logs. | React, Vite, JavaScript | [Live demo](https://uptime-ping-monitor.vercel.app) |
-| [PotterPulse](https://github.com/stokie2605/Potterpulse) | High-density supporter dashboard with fixtures, fan sentiment, player ratings, SQLite, and CI. | Node.js, SQLite, Vanilla JS, Docker | Portfolio concept |
+| [Digital Ops Con Ed Refresh](https://github.com/stokie2605/digital-ops-con-ed-refresh) | Commercial digital strategy, website messaging, and UX refresh delivered for a real-world IT support provider. | Digital Strategy, UX, Copywriting | Commercial Project |
 
 ## Core Toolkit
 
