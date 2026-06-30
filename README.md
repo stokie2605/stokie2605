@@ -13,10 +13,10 @@ I’m an Entry-Level Developer focused on IT automation, cloud operations, and b
 | --- | --- | --- | --- |
 | [Digital Ops Con Ed Refresh](https://github.com/stokie2605/digital-ops-con-ed-refresh) | Commercial digital strategy, website messaging, and UX refresh delivered for a real-world IT support provider. | Digital Strategy, UX, Copywriting | Commercial Project |
 | [StaffRota](https://github.com/stokie2605/staff-rota) | Full-stack shift and rota management system built for NHS, warehouse, and call centre scheduling use cases. | Python, FastAPI, React, SQLite, Docker | `pytest` suite & CI badge |
-| [Cloud Cost Guardian](https://github.com/stokie2605/cloud-cost-guardian) | AWS FinOps scanner for idle EBS volumes and Elastic IP waste, with dashboard evidence. | Python, boto3, Docker, React, GitHub Actions | [Live demo](https://cloud-cost-guardian-ten.vercel.app) & `pytest` |
+| [Cloud Cost Guardian](https://github.com/stokie2605/cloud-cost-guardian) | AWS FinOps scanner for idle EBS volumes and Elastic IP waste, with dashboard evidence. | Python, boto3, Docker, React, GitHub Actions | [Live demo](https://cloud-cost-guardian-ten.vercel.app) & `pytest + CI/CD` |
 | [Cloud-Native Task Automator](https://github.com/stokie2605/cloud-native-task-automator) | Scheduled ECS/Fargate task pattern with Terraform and CI security scanning. | Python, Docker, Terraform, GitHub Actions | `pytest` & Trivy quality gate |
-| [Uptime Ping Monitor](https://github.com/stokie2605/uptime-ping-monitor) | Infrastructure monitoring dashboard for uptime checks, outage states, recovery actions, and logs. | React, Vite, JavaScript | [Live demo](https://uptime-ping-monitor.vercel.app) & `Node test` |
-| [Save Our Supper](https://github.com/stokie2605/save-our-supper) | Firebase-backed foodbank referral workflow with roles, live queues, and public collection status. | React, TypeScript, Firebase | [Live app](https://save-our-supper.web.app/) & `Vitest` |
+| [Uptime Ping Monitor](https://github.com/stokie2605/uptime-ping-monitor) | Infrastructure monitoring dashboard for uptime checks, outage states, recovery actions, and logs. | React, Vite, JavaScript | [Live demo](https://uptime-ping-monitor.vercel.app) & `Node test + CI` |
+| [Save Our Supper](https://github.com/stokie2605/save-our-supper) | Firebase-backed foodbank referral workflow with roles, live queues, and public collection status. | React, TypeScript, Firebase | [Live app](https://save-our-supper.web.app/) & `Vitest + CI` |
 
 ## Core Toolkit
 
@@ -34,10 +34,10 @@ I’m an Entry-Level Developer focused on IT automation, cloud operations, and b
 | Project | Purpose | Stack |
 | --- | --- | --- |
 | [PowerShell IT Automation](https://github.com/stokie2605/powershell-it-automation) | Windows workstation setup, disk checks, cleanup simulation, and operational logging. | PowerShell, syntax validation CI |
-| [HN Scraper Task](https://github.com/stokie2605/hn-scraper-task) | Fetches Hacker News HTML, parses story metadata, sorts by score, and writes JSON output. | Node.js, Axios, Cheerio |
-| [User Provisioning Simulator](https://github.com/stokie2605/user-provisioning-simulator) | Models IAM onboarding logic for usernames, corporate emails, temporary credentials, and groups. | React, Vite, Node testing |
+| [HN Scraper Task](https://github.com/stokie2605/hn-scraper-task) | Fetches Hacker News HTML, parses story metadata, sorts by score, and writes JSON output. Includes a `Node test` script and `CI workflow`. | Node.js, Axios, Cheerio |
+| [User Provisioning Simulator](https://github.com/stokie2605/user-provisioning-simulator) | Models IAM onboarding logic for usernames, corporate emails, temporary credentials, and groups. | React, Vite, `Node test + CI` |
 | [IT Knowledge Base](https://github.com/stokie2605/it-knowledge-base) | Internal support documentation interface for repeatable helpdesk knowledge. | React |
-| [MSP Alert Bridge](https://github.com/stokie2605/msp-alert-bridge) | Normalizes MSP alert payloads into webhook-ready JSON for routing and triage. | TypeScript, Node.js, Node testing |
+| [MSP Alert Bridge](https://github.com/stokie2605/msp-alert-bridge) | Normalizes MSP alert payloads into webhook-ready JSON for routing and triage. | TypeScript, Node.js, `Node test + CI` |
 | [IT Ticket Dashboard](https://github.com/stokie2605/it-ticket-dashboard) | Service desk dashboard for logging, triaging, resolving, and reviewing IT incidents. | React, Vite, Supabase |
 | [IT Asset DB API](https://github.com/stokie2605/it-asset-db-api) | FastAPI REST backend for IT asset tracking. | Python, FastAPI, Docker, SQLite, syntax CI |
 | [IT Asset DB Frontend](https://github.com/stokie2605/it-asset-db-frontend) | Full-stack React dashboard that consumes the Asset API. | React, Vite, CSS |
