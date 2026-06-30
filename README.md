@@ -2,6 +2,11 @@
 
 I’m an Entry-Level Developer focused on IT automation, cloud operations, and building practical tools for support teams. I like building things that actually solve problems—like automating repetitive checks, tracking cloud costs, and building dashboards so teams can see what's going on. Most of my projects sit right between IT support and engineering, using tools like React, FastAPI, and Docker. I'm currently working hard to break into the IT industry full-time, so I spend my time teaching myself modern cloud skills and building projects that prove I can do the work.
 
+## Current Focus
+*   **Engineering Hardening:** Adding robust unit test coverage (`pytest` / mocking).
+*   **CI/CD Pipeline Automation:** Integrating GitHub Actions workflows into all repositories to guarantee that commits compile and verify cleanly.
+*   **Code Modularity & Refactoring:** Decomposing monolithic files (like modularizing large dashboards) into clean component folders to reflect professional maintainability patterns.
+
 ## Start Here
 
 | Project | Why It Matters | Stack | Proof |
