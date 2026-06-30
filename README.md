@@ -30,6 +30,8 @@ Recent engineering hardening focused on failure modes that simple demo apps ofte
 | Runtime resilience | `msp-alert-bridge` now aborts hung outbound webhook calls after 5 seconds. |
 | Cloud networking | `cloud-native-task-automator` now includes private AWS service endpoints for ECR, S3, and CloudWatch Logs. |
 | CI/CD security | `cloud-native-task-automator` now fails builds on `HIGH` and `CRITICAL` Trivy image findings. |
+| Automated Testing | `it-asset-db-api` now features a `pytest` suite simulating CRUD operations against a patched mock database configuration. |
+| Mocking & Verification | `it-support-automation` now has unit tests mocking system disk usage and platform specs to verify automated PC cleanup logs. |
 
 ## Core Toolkit
 
@@ -52,8 +54,9 @@ Recent engineering hardening focused on failure modes that simple demo apps ofte
 | [IT Knowledge Base](https://github.com/stokie2605/it-knowledge-base) | Internal support documentation interface for repeatable helpdesk knowledge. | React |
 | [MSP Alert Bridge](https://github.com/stokie2605/msp-alert-bridge) | Normalizes MSP alert payloads with shared-secret checks and timeout-guarded webhook forwarding. | TypeScript, Node.js, `Node test + CI` |
 | [IT Ticket Dashboard](https://github.com/stokie2605/it-ticket-dashboard) | Service desk dashboard for logging, triaging, resolving, and reviewing IT incidents. | React, Vite, Supabase |
-| [IT Asset DB API](https://github.com/stokie2605/it-asset-db-api) | FastAPI REST backend for IT asset tracking. | Python, FastAPI, Docker, SQLite, syntax CI |
+| [IT Asset DB API](https://github.com/stokie2605/it-asset-db-api) | FastAPI REST backend for IT asset tracking. | Python, FastAPI, SQLite, Docker, pytest CI |
 | [IT Asset DB Frontend](https://github.com/stokie2605/it-asset-db-frontend) | Full-stack React dashboard that consumes the Asset API. | React, Vite, CSS |
+| [IT Support Automation](https://github.com/stokie2605/it-support-automation) | Windows workstation health checks, disk checks, cleanup simulation, and operational logging. | Python, pytest CI |
 | [Serverless Support Bot](https://github.com/stokie2605/serverless-support-bot) | AWS Lambda-ready ChatOps webhook bot for simulated Slack IT support commands and live diagnostics. | Python, FastAPI, Mangum, Docker, pytest CI |
 
 ## How I Build
