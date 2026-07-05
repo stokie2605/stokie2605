@@ -18,6 +18,16 @@ I’m an Entry-Level Developer focused on IT automation, cloud operations, and b
 | [Uptime Ping Monitor](https://github.com/stokie2605/uptime-ping-monitor) | Infrastructure monitoring dashboard for uptime checks, outage states, recovery actions, and logs. | React, Vite, JavaScript | [Live demo](https://uptime-ping-monitor.vercel.app) & `Node test + CI` |
 | [Save Our Supper](https://github.com/stokie2605/save-our-supper) | Firebase-backed foodbank referral workflow with hardened Firestore rules, role gates, and privacy-safe public tracking. | React, TypeScript, Firebase | [Live app](https://save-our-supper.web.app/) & `Vitest + CI` |
 
+## Frontend & UI Design Concepts (Mobile-First)
+
+Alongside my IT automation and cloud projects, I have been building local-business-style frontend concepts to practise mobile-first layouts, semantic HTML, accessibility, local SEO structure, fast static pages, and polished call-to-action design. These are educational portfolio concepts, not client work.
+
+| Concept | Technical Focus |
+| --- | --- |
+| **Ward Tree Services** | High-contrast arborist showcase concept focused on performance, light/dark mode persistence, responsive imagery, and rapid-response UI patterns. |
+| **Greasemonkey Mechanics** | Dark automotive landing page concept focused on clean layout, mobile navigation, tap-friendly contact actions, and visual trust signals. |
+| **David Williams Showcase** | Minimalist bespoke joinery layout exploring refined visual hierarchy, whitespace, typography, and premium product presentation. |
+| **Alsager Foodbank** | Accessible community landing page concept focused on semantic HTML, readable content structure, keyboard-friendly navigation, and a11y-conscious design. |
 
 ## Production Hardening Pass
 
@@ -68,4 +78,3 @@ The common thread is practical operational value: fewer repetitive checks, clear
 ## Portfolio Log
 
 Recent cross-repo polish is tracked in [PORTFOLIO_CHANGELOG.md](PORTFOLIO_CHANGELOG.md).
-
