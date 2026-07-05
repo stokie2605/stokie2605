@@ -8,6 +8,8 @@ A concise log of portfolio-level improvements across the public GitHub account.
 
 - Added a recruiter-friendly **Frontend & UI Design Concepts (Mobile-First)** section to the profile `README.md`.
 - Documented recent educational frontend concepts covering responsive design, accessibility, local SEO structure, performance, and UI hierarchy.
+- Added an anonymized SVG montage to show frontend concept visuals without naming local businesses.
+- Replaced specific business names with neutral concept categories such as automotive diagnostics, outdoor response, product gallery, and community access interfaces.
 - Kept the wording clear that these are portfolio practice concepts, not commercial client work.
 
 ## 2026-06-30
