@@ -2,6 +2,14 @@
 
 A concise log of portfolio-level improvements across the public GitHub account.
 
+## 2026-07-05
+
+### Frontend Portfolio Concepts
+
+- Added a recruiter-friendly **Frontend & UI Design Concepts (Mobile-First)** section to the profile `README.md`.
+- Documented recent educational frontend concepts covering responsive design, accessibility, local SEO structure, performance, and UI hierarchy.
+- Kept the wording clear that these are portfolio practice concepts, not commercial client work.
+
 ## 2026-06-30
 
 ### CI/CD & Automated Testing
