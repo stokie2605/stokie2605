@@ -20,14 +20,16 @@ I’m an Entry-Level Developer focused on IT automation, cloud operations, and b
 
 ## Frontend & UI Design Concepts (Mobile-First)
 
-Alongside my IT automation and cloud projects, I have been building local-business-style frontend concepts to practise mobile-first layouts, semantic HTML, accessibility, local SEO structure, fast static pages, and polished call-to-action design. These are educational portfolio concepts, not client work.
+Alongside my IT automation and cloud projects, I have been building anonymized local-service-style frontend concepts to practise mobile-first layouts, semantic HTML, accessibility, local SEO structure, fast static pages, and polished interface composition. These are educational portfolio concepts, not client work.
 
-| Concept | Technical Focus |
+![Anonymized frontend concept montage](assets/frontend-concept-montage.svg)
+
+| Concept Category | Technical Focus |
 | --- | --- |
-| **Ward Tree Services** | High-contrast arborist showcase concept focused on performance, light/dark mode persistence, responsive imagery, and rapid-response UI patterns. |
-| **Greasemonkey Mechanics** | Dark automotive landing page concept focused on clean layout, mobile navigation, tap-friendly contact actions, and visual trust signals. |
-| **David Williams Showcase** | Minimalist bespoke joinery layout exploring refined visual hierarchy, whitespace, typography, and premium product presentation. |
-| **Alsager Foodbank** | Accessible community landing page concept focused on semantic HTML, readable content structure, keyboard-friendly navigation, and a11y-conscious design. |
+| **Automotive Diagnostics Interface** | Dark service-flow concept focused on compact information hierarchy, mobile navigation, tap-friendly actions, and fast feedback states. |
+| **Outdoor Response Interface** | High-contrast utility concept focused on theme persistence, urgent action placement, responsive imagery, and readable contrast. |
+| **Bespoke Product Gallery Interface** | Minimal editorial concept exploring visual hierarchy, whitespace, typography pairing, gallery pacing, and premium product presentation. |
+| **Community Access Interface** | Accessible information-flow concept focused on semantic HTML, keyboard-friendly navigation, readable content structure, and a11y-conscious design. |
 
 ## Production Hardening Pass
 
