@@ -53,7 +53,7 @@ Recent engineering hardening focused on failure modes that simple demo apps ofte
 | Cloud and DevOps | Docker, Docker Compose, GitHub Actions, Terraform, AWS automation patterns, Firebase Hosting, Vercel |
 | Infrastructure Automation | ECS/Fargate task patterns, EventBridge scheduling, IAM least privilege, logging, Trivy scanning |
 | Frontend | React, Vite, responsive operational dashboards |
-| Backend and Data | Node.js, Firebase, Supabase, SQLite, JSON APIs |
+| Backend and Data | Python pipelines, Node.js, Firebase, Supabase, SQLite, JSON APIs |
 | IT Automation | CLI tools, workstation health checks, report generation, webhook payloads, structured logs |
 
 ## Supporting Projects
@@ -61,6 +61,7 @@ Recent engineering hardening focused on failure modes that simple demo apps ofte
 | Project | Purpose | Stack |
 | --- | --- | --- |
 | [PowerShell IT Automation](https://github.com/stokie2605/powershell-it-automation) | Windows workstation setup, disk checks, cleanup simulation, and operational logging. | PowerShell, syntax validation CI |
+| [Developer News Signal Pipeline](https://github.com/stokie2605/developer-news-signal-pipeline) | API-based backend data pipeline that collects Hacker News stories, normalises records, scores developer relevance, and stores SQLite, JSON, and HTML snapshots. | Python, SQLite, pytest, GitHub Actions |
 | [User Provisioning Simulator](https://github.com/stokie2605/user-provisioning-simulator) | Models IAM onboarding logic for usernames, corporate emails, temporary credentials, and groups. | React, Vite, `Node test + CI` |
 | [MSP Alert Bridge](https://github.com/stokie2605/msp-alert-bridge) | Normalizes MSP alert payloads with shared-secret checks and timeout-guarded webhook forwarding. | TypeScript, Node.js, `Node test + CI` |
 | [IT Ticket Dashboard](https://github.com/stokie2605/it-ticket-dashboard) | Service desk dashboard for logging, triaging, resolving, and reviewing IT incidents. | React, Vite, Supabase |
