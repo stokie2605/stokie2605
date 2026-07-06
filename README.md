@@ -61,15 +61,12 @@ Recent engineering hardening focused on failure modes that simple demo apps ofte
 | Project | Purpose | Stack |
 | --- | --- | --- |
 | [PowerShell IT Automation](https://github.com/stokie2605/powershell-it-automation) | Windows workstation setup, disk checks, cleanup simulation, and operational logging. | PowerShell, syntax validation CI |
-| [HN Scraper Task](https://github.com/stokie2605/hn-scraper-task) | Fetches Hacker News HTML, parses story metadata, sorts by score, and writes JSON output. Includes a `Node test` script and `CI workflow`. | Node.js, Axios, Cheerio |
 | [User Provisioning Simulator](https://github.com/stokie2605/user-provisioning-simulator) | Models IAM onboarding logic for usernames, corporate emails, temporary credentials, and groups. | React, Vite, `Node test + CI` |
-| [IT Knowledge Base](https://github.com/stokie2605/it-knowledge-base) | Internal support documentation interface for repeatable helpdesk knowledge. | React |
 | [MSP Alert Bridge](https://github.com/stokie2605/msp-alert-bridge) | Normalizes MSP alert payloads with shared-secret checks and timeout-guarded webhook forwarding. | TypeScript, Node.js, `Node test + CI` |
 | [IT Ticket Dashboard](https://github.com/stokie2605/it-ticket-dashboard) | Service desk dashboard for logging, triaging, resolving, and reviewing IT incidents. | React, Vite, Supabase |
 | [IT Asset DB API](https://github.com/stokie2605/it-asset-db-api) | FastAPI REST backend for IT asset tracking. | Python, FastAPI, SQLite, Docker, pytest CI |
 | [IT Asset DB Frontend](https://github.com/stokie2605/it-asset-db-frontend) | Full-stack React dashboard that consumes the Asset API. | React, Vite, CSS |
 | [IT Support Automation](https://github.com/stokie2605/it-support-automation) | Windows workstation health checks, disk checks, cleanup simulation, and operational logging. | Python, pytest CI |
-| [Serverless Support Bot](https://github.com/stokie2605/serverless-support-bot) | AWS Lambda-ready ChatOps webhook bot for simulated Slack IT support commands and live diagnostics. | Python, FastAPI, Mangum, Docker, pytest CI |
 
 ## How I Build
 
