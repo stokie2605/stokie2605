@@ -2,6 +2,13 @@
 
 A concise log of portfolio-level improvements across the public GitHub account.
 
+## 2026-07-06
+
+### Portfolio Curation & Cleanup
+
+- Retired and deleted four legacy/outdated repositories to keep the profile focused on core DevOps and IT Automation strengths: `PotterPulse`, `hn-scraper-task`, `it-knowledge-base`, and `serverless-support-bot`.
+- Updated the main profile `README.md` to remove these items from the index.
+
 ## 2026-07-05
 
 ### Frontend Portfolio Concepts
