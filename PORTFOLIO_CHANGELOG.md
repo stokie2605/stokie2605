@@ -9,6 +9,7 @@ A concise log of portfolio-level improvements across the public GitHub account.
 - Reassessed the main profile README to foreground the strongest current technical projects, including `website-signal-scanner` and `developer-news-signal-pipeline`.
 - Removed encoding artefacts and tightened profile copy around IT automation, cloud operations, backend workflows, CI/CD, and safe portfolio tooling.
 - Added lightweight `CLAUDE.md` and `TASK-BRIEF.md` project-memory files across active repositories so future AI-assisted work starts from clear project context.
+
 ## 2026-07-06
 
 ### Portfolio Curation & Cleanup
