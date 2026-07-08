@@ -49,7 +49,7 @@ Recent work has focused on the failure modes that make small projects more reali
 
 ## Frontend & UI Design Concepts
 
-Alongside my IT automation and cloud projects, I have built anonymized frontend concepts to practise mobile-first layouts, semantic HTML, accessibility, local SEO structure, fast static pages, and polished interface composition. These are educational portfolio concepts, not client work.
+Alongside my IT automation and cloud projects, I keep a small anonymized UI concept set to practise mobile-first layout, semantic HTML, accessibility, local SEO structure, fast static pages, and polished interface composition. These are educational portfolio concepts, not client work.
 
 ![Anonymized frontend concept montage](assets/frontend-concept-montage.svg)
 

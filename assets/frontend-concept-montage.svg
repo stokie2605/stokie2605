@@ -1,78 +1,83 @@
-<svg width="1200" height="620" viewBox="0 0 1200 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Anonymized frontend concept montage</title>
-  <desc id="desc">Four portfolio concept screenshots for automotive, arborist, joinery, and community access interface studies.</desc>
+<svg width="1200" height="540" viewBox="0 0 1200 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Anonymized frontend UI concept studies</title>
+  <desc id="desc">Four anonymized educational UI concept panels covering automotive diagnostics, outdoor response, product gallery, and community access interfaces.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" x2="1200" y1="0" y2="620" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#050807"/>
-      <stop offset="0.55" stop-color="#07120E"/>
-      <stop offset="1" stop-color="#10100C"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.54" stop-color="#101827"/>
+      <stop offset="1" stop-color="#172033"/>
     </linearGradient>
-    <linearGradient id="green" x1="0" x2="1" y1="0" y2="1">
-      <stop stop-color="#10261E"/>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#3657F5"/>
+      <stop offset="1" stop-color="#0E9FB7"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#FCD34D"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#12805C"/>
       <stop offset="1" stop-color="#38E2A1"/>
     </linearGradient>
-    <linearGradient id="amber" x1="0" x2="1" y1="0" y2="1">
-      <stop stop-color="#120D07"/>
-      <stop offset="1" stop-color="#E5A93B"/>
-    </linearGradient>
-    <linearGradient id="stone" x1="0" x2="1" y1="0" y2="1">
-      <stop stop-color="#11100E"/>
-      <stop offset="1" stop-color="#EDE1C9"/>
-    </linearGradient>
-    <linearGradient id="sage" x1="0" x2="1" y1="0" y2="1">
-      <stop stop-color="#082018"/>
-      <stop offset="1" stop-color="#E9DDC7"/>
+    <linearGradient id="stone" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#D8C9AF"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
     </linearGradient>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="22" stdDeviation="32" flood-color="#000" flood-opacity="0.38"/>
+      <feDropShadow dx="0" dy="18" stdDeviation="26" flood-color="#000000" flood-opacity="0.26"/>
     </filter>
   </defs>
-  <rect width="1200" height="620" rx="34" fill="url(#bg)"/>
-  <path d="M0 84H1200M0 164H1200M0 244H1200M0 324H1200M0 404H1200M0 484H1200M0 564H1200M92 0V620M212 0V620M332 0V620M452 0V620M572 0V620M692 0V620M812 0V620M932 0V620M1052 0V620" stroke="white" stroke-opacity="0.045"/>
-  <circle cx="1010" cy="66" r="210" fill="#107C5F" fill-opacity="0.18"/>
-  <circle cx="170" cy="552" r="180" fill="#E5A93B" fill-opacity="0.10"/>
-  <text x="58" y="76" fill="#E5A93B" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="5">FRONTEND UI CONCEPT STUDIES</text>
-  <text x="58" y="126" fill="#F7F2E8" font-family="Arial Black, Inter, Arial, sans-serif" font-size="48" font-weight="900">Mobile-first interface montage</text>
-  <text x="60" y="164" fill="#9CAFAA" font-family="Inter, Arial, sans-serif" font-size="19">Educational practice visuals: responsive layouts, accessibility, semantic structure, and performance-minded composition.</text>
+
+  <rect width="1200" height="540" rx="30" fill="url(#bg)"/>
+  <path d="M0 92H1200M0 184H1200M0 276H1200M0 368H1200M0 460H1200M110 0V540M220 0V540M330 0V540M440 0V540M550 0V540M660 0V540M770 0V540M880 0V540M990 0V540M1100 0V540" stroke="#FFFFFF" stroke-opacity="0.05"/>
+  <circle cx="1035" cy="95" r="190" fill="#3657F5" fill-opacity="0.12"/>
+  <circle cx="125" cy="475" r="170" fill="#38E2A1" fill-opacity="0.10"/>
+
+  <text x="56" y="70" fill="#93C5FD" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="800" letter-spacing="4">EDUCATIONAL FRONTEND PRACTICE</text>
+  <text x="56" y="124" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="46" font-weight="900">Anonymized UI concept studies</text>
+  <text x="58" y="164" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="19">Mobile-first layouts, semantic structure, accessibility basics, local SEO patterns, and fast static interfaces.</text>
 
   <g filter="url(#shadow)">
-    <rect x="60" y="220" width="250" height="250" rx="28" fill="url(#amber)"/>
-    <rect x="82" y="248" width="206" height="126" rx="20" fill="#080B0A" fill-opacity="0.82"/>
-    <text x="104" y="286" fill="#E5A93B" font-family="Inter, Arial" font-size="13" font-weight="800" letter-spacing="2">AUTOMOTIVE UI</text>
-    <text x="104" y="329" fill="#F7F2E8" font-family="Arial Black, Inter" font-size="28" font-weight="900">Diagnostic</text>
-    <text x="104" y="360" fill="#F7F2E8" font-family="Arial Black, Inter" font-size="28" font-weight="900">flow</text>
-    <rect x="102" y="400" width="160" height="26" rx="13" fill="#FFF7E8"/>
-    <text x="122" y="418" fill="#151008" font-family="Inter, Arial" font-size="11" font-weight="900">REG LOOKUP</text>
+    <rect x="58" y="230" width="252" height="218" rx="24" fill="#FFFFFF"/>
+    <rect x="82" y="254" width="204" height="72" rx="18" fill="url(#amber)"/>
+    <text x="104" y="284" fill="#111827" font-family="Inter, Arial" font-size="12" font-weight="900" letter-spacing="2">AUTOMOTIVE</text>
+    <text x="104" y="312" fill="#111827" font-family="Inter, Arial" font-size="22" font-weight="900">Diagnostics flow</text>
+    <rect x="82" y="350" width="128" height="22" rx="11" fill="#E5E7EB"/>
+    <rect x="82" y="386" width="204" height="10" rx="5" fill="#D1D5DB"/>
+    <rect x="82" y="410" width="156" height="10" rx="5" fill="#D1D5DB"/>
   </g>
 
   <g filter="url(#shadow)">
-    <rect x="350" y="220" width="250" height="250" rx="28" fill="url(#green)"/>
-    <rect x="378" y="254" width="194" height="142" rx="24" fill="#07120D" fill-opacity="0.78"/>
-    <text x="404" y="296" fill="#9CAFAA" font-family="Inter, Arial" font-size="13" font-weight="800" letter-spacing="2">ARBORIST UI</text>
-    <text x="404" y="339" fill="#F7F2E8" font-family="Arial Black, Inter" font-size="27" font-weight="900">Urgent</text>
-    <text x="404" y="370" fill="#F7F2E8" font-family="Arial Black, Inter" font-size="27" font-weight="900">response</text>
-    <text x="506" y="372" fill="#38E2A1" font-family="Arial Black, Inter" font-size="54" font-weight="900">24h</text>
+    <rect x="338" y="230" width="252" height="218" rx="24" fill="#FFFFFF"/>
+    <rect x="362" y="254" width="204" height="72" rx="18" fill="url(#green)"/>
+    <text x="384" y="284" fill="#ECFEFF" font-family="Inter, Arial" font-size="12" font-weight="900" letter-spacing="2">OUTDOOR RESPONSE</text>
+    <text x="384" y="312" fill="#FFFFFF" font-family="Inter, Arial" font-size="22" font-weight="900">Urgent action UI</text>
+    <rect x="362" y="350" width="92" height="58" rx="14" fill="#DCFCE7"/>
+    <rect x="474" y="350" width="92" height="58" rx="14" fill="#E0F2FE"/>
+    <rect x="362" y="424" width="204" height="10" rx="5" fill="#D1D5DB"/>
   </g>
 
   <g filter="url(#shadow)">
-    <rect x="640" y="220" width="250" height="250" rx="28" fill="url(#stone)"/>
-    <rect x="668" y="254" width="80" height="150" rx="18" fill="#FFF7E8" fill-opacity="0.72"/>
-    <rect x="762" y="254" width="88" height="68" rx="18" fill="#FFF7E8" fill-opacity="0.34"/>
-    <rect x="762" y="336" width="88" height="68" rx="18" fill="#FFF7E8" fill-opacity="0.24"/>
-    <rect x="690" y="420" width="150" height="26" rx="13" fill="#080B0A" fill-opacity="0.72"/>
-    <text x="708" y="438" fill="#F7F2E8" font-family="Inter, Arial" font-size="11" font-weight="900">GALLERY STUDY</text>
+    <rect x="618" y="230" width="252" height="218" rx="24" fill="#FFFFFF"/>
+    <rect x="642" y="254" width="204" height="72" rx="18" fill="url(#stone)"/>
+    <text x="664" y="284" fill="#334155" font-family="Inter, Arial" font-size="12" font-weight="900" letter-spacing="2">PRODUCT GALLERY</text>
+    <text x="664" y="312" fill="#111827" font-family="Inter, Arial" font-size="22" font-weight="900">Editorial layout</text>
+    <rect x="642" y="350" width="62" height="76" rx="12" fill="#CBD5E1"/>
+    <rect x="720" y="350" width="126" height="24" rx="12" fill="#E5E7EB"/>
+    <rect x="720" y="392" width="96" height="10" rx="5" fill="#D1D5DB"/>
+    <rect x="720" y="416" width="126" height="10" rx="5" fill="#D1D5DB"/>
   </g>
 
   <g filter="url(#shadow)">
-    <rect x="930" y="220" width="250" height="250" rx="28" fill="url(#sage)"/>
-    <rect x="956" y="250" width="198" height="150" rx="24" fill="#FFF7E8" fill-opacity="0.84"/>
-    <text x="982" y="292" fill="#073528" font-family="Inter, Arial" font-size="13" font-weight="800" letter-spacing="2">COMMUNITY UI</text>
-    <text x="982" y="335" fill="#073528" font-family="Arial Black, Inter" font-size="24" font-weight="900">Accessible</text>
-    <text x="982" y="364" fill="#073528" font-family="Arial Black, Inter" font-size="24" font-weight="900">pathways</text>
-    <circle cx="1018" cy="426" r="22" fill="#073528" fill-opacity="0.82"/>
-    <circle cx="1076" cy="426" r="22" fill="#073528" fill-opacity="0.64"/>
-    <circle cx="1134" cy="426" r="22" fill="#073528" fill-opacity="0.46"/>
+    <rect x="898" y="230" width="252" height="218" rx="24" fill="#FFFFFF"/>
+    <rect x="922" y="254" width="204" height="72" rx="18" fill="url(#blue)"/>
+    <text x="944" y="284" fill="#ECFEFF" font-family="Inter, Arial" font-size="12" font-weight="900" letter-spacing="2">COMMUNITY ACCESS</text>
+    <text x="944" y="312" fill="#FFFFFF" font-family="Inter, Arial" font-size="22" font-weight="900">Accessible paths</text>
+    <circle cx="954" cy="374" r="18" fill="#DBEAFE"/>
+    <circle cx="1014" cy="374" r="18" fill="#DCFCE7"/>
+    <circle cx="1074" cy="374" r="18" fill="#FDE68A"/>
+    <rect x="922" y="414" width="204" height="10" rx="5" fill="#D1D5DB"/>
   </g>
 
-  <text x="60" y="542" fill="#9CAFAA" font-family="Inter, Arial" font-size="16" font-weight="700">Concept categories are anonymized for recruiter review. These visuals represent educational practice work, not client work.</text>
+  <text x="58" y="500" fill="#CBD5E1" font-family="Inter, Arial" font-size="16" font-weight="700">Anonymized practice visuals only. These concepts demonstrate layout, accessibility, semantic HTML, responsive structure, and UI polish.</text>
 </svg>
