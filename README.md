@@ -26,21 +26,14 @@ A secure, role-based operations dashboard built for local charity intake coordin
 
 ---
 
-### 4. Website Signal Scanner
-A local-first CLI auditor and crawler engine engineered to programmatically parse public homepages for technical search engine visibility, deep WCAG accessibility compliance compliance, and semantic performance heuristics using headless browser loops.
-
-![Website Signal Scanner Output](website-signal-scanner-showcase.png)
-
----
-
-### 5. Cloud-Native Task Automator
+### 4. Cloud-Native Task Automator
 An Infrastructure-as-Code (IaC) continuous deployment pipeline automating containerized execution under AWS ECS/Fargate using Terraform, guarded by automated static security vulnerability scanning gates within GitHub Actions.
 
 ![Cloud-Native Task Automator Architecture](cloud-native-task-automator-showcase.png)
 
 ---
 
-### 6. Developer News Signal Pipeline
+### 5. Developer News Signal Pipeline
 A high-throughput, asynchronous data ingestion pipeline written in Python that streams, filters, and normalizes Hacker News API endpoints using keyword scoring heuristics, outputting structured relational SQLite database snapshots.
 
 ![Developer News Signal Pipeline Architecture](developer-news-signal-pipeline-showcase.png)
