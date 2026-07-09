@@ -1,4 +1,4 @@
-# Hi, I'm Wilshaw (@stokie2605) 🛠️
+# Hi, I'm a Full-Stack Developer & Web Professional (@stokie2605) 🛠️
 > Full-Stack Developer & Web Professional specializing in automated B2B compliance engines, cloud systems optimization, and robust data pipelines.
 
 ---
