@@ -2,6 +2,14 @@
 
 A concise log of portfolio-level improvements across the public GitHub account.
 
+## 2026-07-09
+
+### Portfolio Curation & Anonymization
+
+- Consolidated all static frontend design concepts (including `Alsager Foodbank Showcase` and `David Williams Showcase`) into a single, unified, and anonymized repository: `local-business-design-showcases`.
+- Renamed the digital operations project from `digital-ops-con-ed-refresh` to `school-it-support-refresh` and fully anonymized all references to the client name ("Con Ed") to "EduSupport IT" to align with portfolio positioning.
+- Added direct code links to `local-business-design-showcases` from the profile README so recruiters can easily review the frontend layout work.
+
 ## 2026-07-08
 
 ### Profile Reassessment & Project Memory
