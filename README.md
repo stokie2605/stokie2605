@@ -1,31 +1,56 @@
 # Hi, I'm Wilshaw (@stokie2605) 🛠️
-> Full-Stack Developer & Web Professional specializing in building high-conversion local web systems and automated B2B compliance tools.
+> Full-Stack Developer & Web Professional specializing in automated B2B compliance engines, cloud systems optimization, and robust data pipelines.
 
 ---
 
-## 🚀 Active Products
-* **[UK EPC Compliance Auditor](https://github.com/stokie2605/uk-epc-auditor)** - A vanilla HTML/CSS/JS web app running on a Node.js/Express backend that automates MEES portfolio risk scanning and fine exposure protection for letting agents and commercial surveyors.
+## 🎥 Flagship Product Showcases
 
-## ⚙️ Core Technical Expertise
-* **Full-Stack & Systems:** React, Vite, Node.js, Express, TypeScript, SQLite, Vitest
-* **Cloud & DevOps Automation:** AWS (Boto3), Terraform, Docker, GitHub Actions CI/CD pipelines
-* **Civic & Enterprise Tech:** Role-based access controls, secure database isolation (Supabase/Firestore RLS rules), IAM simulation pipelines
+### 1. UK EPC Compliance Auditor
+A commercial-grade risk scanner auditing property portfolios for letting agents to flag sub-standard MEES ratings (F/G) and mitigate up to £30,000 in civil penalty exposures. Integrates an asynchronous background webhook ingestion layer and responsive HTML email dispatch logic.
 
-## 💼 Commercial Freelance & Showcases
-* **[Local Business Design Showcases](https://github.com/stokie2605/local-business-design-showcases)** - High-performance, mobile-first static templates engineered with semantic schema layouts optimized for direct local organic search conversion.
+![UK EPC Auditor Dashboard](uk-epc-auditor-showcase.png)
 
 ---
 
-## 🛠️ Maintained Engineering Assets
+### 2. Cloud Cost Guardian
+An automated AWS FinOps utility tracking unattached EBS volumes and idle Elastic IPs via Boto3, calculating annualized cost leakages, and rendering structural resource waste metrics through a React data dashboard.
 
-Alongside active commercial builds, I maintain a collection of focused, production-pattern repositories demonstrating systems range:
-
-* **[Cloud Cost Guardian](https://github.com/stokie2605/cloud-cost-guardian)** - AWS FinOps cost containment scanner detecting unattached volumes and idle Elastic IPs.
-* **[MSP Alert Bridge](https://github.com/stokie2605/msp-alert-bridge)** - Lightweight TypeScript microservice normalising webhook payloads from disparate monitoring tools.
-* **[Save Our Supper](https://github.com/stokie2605/save-our-supper)** - Foodbank referral workflow system engineered with role gates and GDPR anonymisation rules.
-* **[Staff Rota Management](https://github.com/stokie2605/staff-rota)** - FastAPI & React scheduling engine featuring database-enforced double-booking guards.
-* **[Website Signal Scanner](https://github.com/stokie2605/website-signal-scanner)** - Local-first crawler extracting search, accessibility, and link health metrics.
+![Cloud Cost Guardian Interface](cloud-cost-guardian-showcase.png)
 
 ---
 
-*Looking for professional collaboration or engineering discussions? Reach out directly via my GitHub profile.*
+### 3. Save Our Supper — Foodbank Pipeline
+A secure, role-based operations dashboard built for local charity intake coordination. Features robust Firestore Row-Level Security (RLS) validation rules, live referral queues, and automated GDPR-compliant data sanitization loops.
+
+![Save Our Supper Workflow](save-our-supper-showcase.png)
+
+---
+
+### 4. Website Signal Scanner
+A local-first CLI auditor and crawler engine engineered to programmatically parse public homepages for technical search engine visibility, deep WCAG accessibility compliance compliance, and semantic performance heuristics using headless browser loops.
+
+![Website Signal Scanner Output](website-signal-scanner-showcase.png)
+
+---
+
+### 5. Cloud-Native Task Automator
+An Infrastructure-as-Code (IaC) continuous deployment pipeline automating containerized execution under AWS ECS/Fargate using Terraform, guarded by automated static security vulnerability scanning gates within GitHub Actions.
+
+![Cloud-Native Task Automator Architecture](cloud-native-task-automator-showcase.png)
+
+---
+
+### 6. Developer News Signal Pipeline
+A high-throughput, asynchronous data ingestion pipeline written in Python that streams, filters, and normalizes Hacker News API endpoints using keyword scoring heuristics, outputting structured relational SQLite database snapshots.
+
+![Developer News Signal Pipeline Architecture](developer-news-signal-pipeline-showcase.png)
+
+---
+
+## 🛠️ Unified Tech Stack
+* **Languages & Environments:** TypeScript, JavaScript (ES6+), Python, Node.js, HTML5/CSS3, HCL (Terraform)
+* **Frameworks & UI:** React, Vite, FastAPI, Express, Tailwind CSS, CSS Modules
+* **Cloud & DevOps:** AWS (ECS/Fargate), Terraform, Docker, Docker Compose, GitHub Actions CI/CD
+* **Databases & Security:** Supabase (PostgreSQL), Firebase Firestore (RLS), SQLite
+
+*Looking for professional collaboration or commercial web engineering? Reach out directly via my GitHub profile.*
