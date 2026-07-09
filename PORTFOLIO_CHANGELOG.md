@@ -4,6 +4,17 @@ A concise log of portfolio-level improvements across the public GitHub account.
 
 ## 2026-07-09
 
+### Automated Workflows & Security Hardening
+
+- **Hacker News Daily Signal Pipeline:** Implemented automated GitHub Pages static report deployment workflow in CI running daily via cron.
+- **Cloud Cost Guardian:** Built a LocalStack sandbox environment via `docker-compose` with mock resource seeding scripts, custom endpoint injection, and direct React data update paths.
+- **Save Our Supper:** Implemented a Vitest security rules test suite, running inside a private CI emulator environment on every push.
+- **Website Signal Scanner:** Added a Playwright PDF report generation backend, dynamic frontend printing with print-dialog fallback, and a foodbank audit case study.
+- **Cloud Native Task Automator:** Hardened endpoint polling with strict Python-level HTTPS target schema verification to prevent network security group timeouts.
+- **Uptime Ping Monitor:** Fixed a state-handling bug in the polling loop that overwrote the transient state of rebooting/offline nodes.
+- **User Provisioning Simulator:** Hardened username generation with Active Directory sAMAccountName length limit constraints (20-char limit) and input fallbacks.
+- **Visual Presentation:** Replaced the generic visual template montage with a high-fidelity composite graphic showing real screenshots of the `Greasemonkey` and `Ward Tree Services` showcases.
+
 ### Portfolio Curation & Anonymization
 
 - Consolidated all static frontend design concepts (including `Alsager Foodbank Showcase` and `David Williams Showcase`) into a single, unified, and anonymized repository: `local-business-design-showcases`.
