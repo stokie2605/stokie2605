@@ -53,7 +53,7 @@ Alongside my IT automation and cloud projects, I keep a small anonymized UI conc
 
 The complete code for these showcases is available in the **[local-business-design-showcases](https://github.com/stokie2605/local-business-design-showcases)** repository.
 
-![Anonymized frontend concept montage](assets/frontend-concept-montage.svg)
+![Anonymized frontend concept montage](assets/frontend-concept-montage.jpg)
 
 | Concept Category | Technical Focus |
 | --- | --- |
