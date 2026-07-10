@@ -1,4 +1,4 @@
-# Hi, I'm Wilshaw (@stokie2605) 🛠️
+# Hi, I'm Dean (@stokie2605) 🛠️
 > Full-stack developer focused on operational web apps, automation tools, cloud workflows, and data pipelines.
 
 ---
