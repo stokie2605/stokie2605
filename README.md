@@ -1,40 +1,40 @@
-# Hi, I'm a Full-Stack Developer & Web Professional (@stokie2605) 🛠️
-> Full-Stack Developer & Web Professional specializing in automated B2B compliance engines, cloud systems optimization, and robust data pipelines.
+# Hi, I'm Wilshaw (@stokie2605) 🛠️
+> Full-stack developer focused on operational web apps, automation tools, cloud workflows, and data pipelines.
 
 ---
 
-## 🎥 Flagship Product Showcases
+## 💻 Selected Engineering Projects
 
-### 1. UK EPC Compliance Auditor
-A commercial-grade risk scanner auditing property portfolios for letting agents to flag sub-standard MEES ratings (F/G) and mitigate up to £30,000 in civil penalty exposures. Integrates an asynchronous background webhook ingestion layer and responsive HTML email dispatch logic.
+### 1. [UK EPC Compliance Auditor](https://github.com/stokie2605/uk-epc-auditor)
+A property compliance dashboard exploring EPC/MEES checks, address matching, and portfolio risk summaries.
 
 ![UK EPC Auditor Dashboard](uk-epc-auditor-showcase.png)
 
 ---
 
-### 2. Cloud Cost Guardian
-An automated AWS FinOps utility tracking unattached EBS volumes and idle Elastic IPs via Boto3, calculating annualized cost leakages, and rendering structural resource waste metrics through a React data dashboard.
+### 2. [Cloud Cost Guardian](https://github.com/stokie2605/cloud-cost-guardian)
+An AWS utility tracking unattached EBS volumes and idle Elastic IPs via Boto3. It calculates estimated cost leakages and renders resource metrics through a React data dashboard to provide visual insights into cloud spend.
 
 ![Cloud Cost Guardian Interface](cloud-cost-guardian-showcase.png)
 
 ---
 
-### 3. Save Our Supper — Foodbank Pipeline
-A secure, role-based operations dashboard built for local charity intake coordination. Features robust Firestore Row-Level Security (RLS) validation rules, live referral queues, and automated GDPR-compliant data sanitization loops.
+### 3. [Save Our Supper — Foodbank Pipeline](https://github.com/stokie2605/save-our-supper)
+An operations dashboard built for local charity intake coordination. Features live referral queues and Firestore Security Rules to manage incoming data safely and efficiently.
 
 ![Save Our Supper Workflow](save-our-supper-showcase.png)
 
 ---
 
-### 4. Cloud-Native Task Automator
-An Infrastructure-as-Code (IaC) continuous deployment pipeline automating containerized execution under AWS ECS/Fargate using Terraform, guarded by automated static security vulnerability scanning gates within GitHub Actions.
+### 4. [Cloud-Native Task Automator](https://github.com/stokie2605/cloud-native-task-automator)
+An Infrastructure-as-Code (IaC) deployment pipeline automating containerized task execution under AWS ECS/Fargate using Terraform. Integrates GitHub Actions CI/CD to handle automated builds and static scanning.
 
 ![Cloud-Native Task Automator Architecture](cloud-native-task-automator-showcase.png)
 
 ---
 
-### 5. Developer News Signal Pipeline
-A high-throughput, asynchronous data ingestion pipeline written in Python that streams, filters, and normalizes Hacker News API endpoints using keyword scoring heuristics, outputting structured relational SQLite database snapshots.
+### 5. [Developer News Signal Pipeline](https://github.com/stokie2605/developer-news-signal-pipeline)
+An asynchronous data ingestion pipeline written in Python that streams, filters, and normalizes Hacker News API endpoints using keyword scoring heuristics. Outputs structured relational SQLite database snapshots for offline querying.
 
 ![Developer News Signal Pipeline Architecture](developer-news-signal-pipeline-showcase.png)
 
@@ -44,6 +44,6 @@ A high-throughput, asynchronous data ingestion pipeline written in Python that s
 * **Languages & Environments:** TypeScript, JavaScript (ES6+), Python, Node.js, HTML5/CSS3, HCL (Terraform)
 * **Frameworks & UI:** React, Vite, FastAPI, Express, Tailwind CSS, CSS Modules
 * **Cloud & DevOps:** AWS (ECS/Fargate), Terraform, Docker, Docker Compose, GitHub Actions CI/CD
-* **Databases & Security:** Supabase (PostgreSQL), Firebase Firestore (RLS), SQLite
+* **Databases:** Supabase (PostgreSQL), Firebase Firestore, SQLite
 
-*Looking for professional collaboration or commercial web engineering? Reach out directly via my GitHub profile.*
+*Feel free to explore my repositories to see how I build and deploy these workflows.*
