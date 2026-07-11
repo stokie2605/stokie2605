@@ -15,14 +15,14 @@ A property compliance dashboard exploring EPC/MEES checks, address matching, and
 ### 2. [Cloud Cost Guardian](https://github.com/stokie2605/cloud-cost-guardian)
 An AWS utility tracking unattached EBS volumes and idle Elastic IPs via Boto3. It calculates estimated cost leakages and renders resource metrics through a React data dashboard to provide visual insights into cloud spend.
 
-<img src="cloud-cost-guardian-showcase.png" width="700" alt="Cloud Cost Guardian Interface" />
+<img src="cloud-cost-guardian-dark.png" width="340" alt="Cloud Cost Guardian Dark" /> <img src="cloud-cost-guardian-light.png" width="340" alt="Cloud Cost Guardian Light" />
 
 ---
 
 ### 3. [Save Our Supper — Foodbank Pipeline](https://github.com/stokie2605/save-our-supper)
 An operations dashboard built for local charity intake coordination. Features live referral queues and Firestore Security Rules to manage incoming data safely and efficiently.
 
-<img src="save-our-supper-showcase.png" width="700" alt="Save Our Supper Workflow" />
+<img src="save-our-supper-dark.png" width="340" alt="Save Our Supper Dark" /> <img src="save-our-supper-light.png" width="340" alt="Save Our Supper Light" />
 
 ---
 
