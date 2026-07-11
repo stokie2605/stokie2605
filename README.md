@@ -40,6 +40,13 @@ An asynchronous data ingestion pipeline written in Python that streams, filters,
 
 ---
 
+## 🎨 UI/UX Design & Frontend Concepts
+A compilation of visual concept layouts, dashboard components, and responsive wireframes built using modern CSS variables and Tailwind theme configurations.
+
+<img src="assets/frontend-concept-montage.jpg" width="700" alt="Frontend Concepts Showcase" />
+
+---
+
 ## 🛠️ Unified Tech Stack
 * **Languages & Environments:** TypeScript, JavaScript (ES6+), Python, Node.js, HTML5/CSS3, HCL (Terraform)
 * **Frameworks & UI:** React, Vite, FastAPI, Express, Tailwind CSS, CSS Modules
