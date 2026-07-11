@@ -29,14 +29,14 @@ An operations dashboard built for local charity intake coordination. Features li
 ### 4. [Cloud-Native Task Automator](https://github.com/stokie2605/cloud-native-task-automator)
 An Infrastructure-as-Code (IaC) deployment pipeline automating containerized task execution under AWS ECS/Fargate using Terraform. Integrates GitHub Actions CI/CD to handle automated builds and static scanning.
 
-![Cloud-Native Task Automator Architecture](cloud-native-task-automator-showcase.png)
+<img src="cloud-native-task-automator-showcase.png" width="700" alt="Cloud-Native Task Automator Architecture" />
 
 ---
 
 ### 5. [Developer News Signal Pipeline](https://github.com/stokie2605/developer-news-signal-pipeline)
 An asynchronous data ingestion pipeline written in Python that streams, filters, and normalizes Hacker News API endpoints using keyword scoring heuristics. Outputs structured relational SQLite database snapshots for offline querying.
 
-![Developer News Signal Pipeline Architecture](developer-news-signal-pipeline-showcase.png)
+<img src="developer-news-signal-pipeline-showcase.png" width="700" alt="Developer News Signal Pipeline Architecture" />
 
 ---
 
