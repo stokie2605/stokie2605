@@ -22,7 +22,7 @@ An AWS utility tracking unattached EBS volumes and idle Elastic IPs via Boto3. I
 ### 3. [Save Our Supper — Foodbank Pipeline](https://github.com/stokie2605/save-our-supper)
 An operations dashboard built for local charity intake coordination. Features live referral queues and Firestore Security Rules to manage incoming data safely and efficiently.
 
-![Save Our Supper Workflow](save-our-supper-showcase.png)
+<img src="save-our-supper-showcase.png" width="700" alt="Save Our Supper Workflow" />
 
 ---
 
