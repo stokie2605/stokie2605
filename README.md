@@ -8,7 +8,7 @@
 ### 1. [UK EPC Compliance Auditor](https://github.com/stokie2605/uk-epc-auditor)
 A property compliance dashboard exploring EPC/MEES checks, address matching, and portfolio risk summaries.
 
-![UK EPC Auditor Dashboard](uk-epc-auditor-showcase.png)
+<img src="uk-epc-dark.png" width="340" alt="UK EPC Auditor Dark Mode" /> <img src="uk-epc-light.png" width="340" alt="UK EPC Auditor Light Mode" />
 
 ---
 
