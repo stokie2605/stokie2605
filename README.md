@@ -15,7 +15,7 @@ A property compliance dashboard exploring EPC/MEES checks, address matching, and
 ### 2. [Cloud Cost Guardian](https://github.com/stokie2605/cloud-cost-guardian)
 An AWS utility tracking unattached EBS volumes and idle Elastic IPs via Boto3. It calculates estimated cost leakages and renders resource metrics through a React data dashboard to provide visual insights into cloud spend.
 
-![Cloud Cost Guardian Interface](cloud-cost-guardian-showcase.png)
+<img src="cloud-cost-guardian-showcase.png" width="700" alt="Cloud Cost Guardian Interface" />
 
 ---
 
