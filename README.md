@@ -53,7 +53,7 @@ UX copywriting refresh and messaging architecture mapping complex IT support wor
 * **Tech Stack:** HTML5, Tailwind CSS, Visual Concept Assets, SEO Heuristics
 * **Deliverables:** Component-driven layout wireframes, search engine keyword frameworks, and B2B user-journey optimizations.
 
-<img src="https://raw.githubusercontent.com/stokie2605/school-it-support-refresh/main/assets/01_hero_section.png" width="100%" alt="School IT Support Digital Operations & UX Refresh Preview" />
+<img src="https://raw.githubusercontent.com/stokie2605/school-it-support-refresh/main/assets/01_hero_section.png" width="700" alt="School IT Support Digital Operations & UX Refresh Preview" />
 
 ---
 
