@@ -1,40 +1,65 @@
-# Dean (@stokie2605)
-### **IT Operations, Systems Administration & Automation Specialist**
+# Hi, I'm Dean (@stokie2605) 🛠️
 
-I bridge the gap between physical operations and digital infrastructure. With a strong operational background, I specialize in eliminating helpdesk bottlenecks, automating routine system administration tasks, and building reliable, self-healing IT workflows.
+I have a strong background working on the ground in industrial and warehouse operations. Since early 2025, I have translated that real-world operational experience into building reliable IT workflows, automating routine system administration tasks, and eliminating manual helpdesk bottlenecks.
 
----
+My absolute strength and focus is on the backbone systems: writing Python and PowerShell scripts to automate administrative tasks, working with SQL databases, containerizing configs with Docker, and leveraging AWS to keep infrastructure running smoothly and securely. 
 
-### 🛠️ Core Technical Competencies
-* **Systems Administration & Automation:** PowerShell, Python, Bash scripting, Windows Server Administration, Endpoint Diagnostics
-* **Cloud & Infrastructure Governance:** AWS (EC2, FinOps Cost Optimization, Resource Governance), Docker, Terraform (IaC)
-* **ITSM & Operational Workflows:** ITIL Service Catalog Design, SLA Tracking, Hardware Lifecycle Inventory Control, Automated Alert Routing
+I am looking to bring this practical, automated approach to hands-on roles like **Systems Administration, IT Support Operations, Cloud Infrastructure, or technical Helpdesk engineering**—where I can use my scripting and operations skills to keep environments stable.
 
 ---
 
-### 🚀 Operational Philosophy
-I build tools to solve real-world operational problems. Whether it is writing a PowerShell script to automate endpoint maintenance, configuring a middleware bridge to reduce helpdesk alert fatigue, or auditing cloud environments for wasted spend, my focus is always on **high availability, clean documentation, and practical problem-solving.**
+## 💻 Selected Engineering Projects
+
+### 1. PowerShell IT Automation Suite
+A suite of robust PowerShell scripts built for systems administration, automating repetitive Windows operational tasks, data extraction, and bulk endpoint management workflows.
+*   **Tech Stack:** `PowerShell`, `CIM / WMI`, `Pester (Testing)`
+*   **Deliverables:** Automated local workspace directory provisioning, hardware audits, and network interface diagnostic loops.
+
+![PowerShell Automation Console Terminal](https://raw.githubusercontent.com/stokie2605/powershell-it-automation/main/Screenshot%202026-06-08%20162913.png)
 
 ---
 
-### 💻 Featured Engineering Projects
+### 2. Cloud-Native Task Automator
+A secure Infrastructure-as-Code (IaC) deployment pipeline automating containerized task execution under AWS ECS/Fargate using Terraform. Integrates automated security scanning gates to block vulnerable deployments.
+*   **Tech Stack:** `Terraform (HCL)`, `AWS (ECS/Fargate)`, `Docker`, `GitHub Actions`, `Trivy`
+*   **Deliverables:** Automated task runners, infrastructure drift detection, and secure container scanning configurations.
 
-#### 1. [PowerShell IT Automation Suite](https://github.com/stokie2605/powershell-it-automation)
-An enterprise Windows systems administration toolkit built to automate local workstation lifecycle diagnostics, audit configuration drift, and collect remote event logs.
-* **Focus:** Automated local workspace directory provisioning, hardware audits, and network interface diagnostic loops.
-* **Tech Stack:** `PowerShell`, `CIM / WMI`, `Pester (Testing)`
+![Cloud Native Task Automator Diagram](cloud-native-task-automator-showcase.jpg)
 
-#### 2. [Cloud-Native Task Automator](https://github.com/stokie2605/cloud-native-task-automator)
-A secure Infrastructure-as-Code (IaC) deployment pipeline for containerized scheduled task execution on AWS.
-* **Focus:** Terraform IaC provisioning of AWS ECS/Fargate cluster tasks, guarded by automated Trivy vulnerability scanning gates inside GitHub Actions CI/CD.
-* **Tech Stack:** `Terraform (HCL)`, `AWS ECS/Fargate`, `Docker`, `GitHub Actions`, `Trivy`
+---
 
-#### 3. [Cloud Resource Tag compliance & CLI Guard](https://github.com/stokie2605/cloud-resource-guard)
-A cloud governance utility that identifies untagged AWS assets and flags compliance violations to enforce cloud cost hygiene.
-* **Focus:** Automation of configuration drift checks, resource tagging policies, and AWS capacity waste scanning.
-* **Tech Stack:** `Python (Boto3)`, `AWS CLI`, `Cloud Compliance`
+### 3. IT Ticket Dashboard
+An operational service desk ticket system designed to streamline IT support workflows, enforce row-level security, and monitor support ticket response times.
+*   **Tech Stack:** `PostgreSQL`, `PostgREST API`, `Tailwind CSS`, `Operational UI`
+*   **Deliverables:** Helpdesk ticket routing rules, automated priority escalations, and PostgreSQL security policies.
 
-#### 4. [MSP Alert Normalization Bridge](https://github.com/stokie2605/msp-alert-bridge)
-A middleware service designed to mitigate helpdesk alert fatigue by standardizing diverse monitoring payloads.
-* **Focus:** Normalizes raw telemetry schemas from Nagios, PRTG, and Zabbix into structured webhooks for downstream incident routing.
-* **Tech Stack:** `Node.js`, `TypeScript`, `Webhooks`, `Incident Management`
+![IT Ticket Dashboard Interface Preview](https://raw.githubusercontent.com/stokie2605/it-ticket-dashboard/main/screenshots/ticket-dashboard-preview.png)
+
+---
+
+### 4. Cloud Cost Guardian
+An automated AWS resource cost-compliance utility that scans infrastructure, identifies unattached EBS volumes and idle Elastic IPs, and flags wasted cloud spend.
+*   **Tech Stack:** `Python (Boto3 SDK)`, `AWS CLI`, `FinOps Governance`
+*   **Deliverables:** Cloud cost reporting audits, drift detection metrics, and automated resource cleanup scripts.
+
+![Cloud Cost Guardian Dashboard Previews](cloud-cost-guardian-dark.png)
+
+---
+
+### 5. Developer News Signal Pipeline
+An unattended cron data-ingestion pipeline written in Python that polls, filters, and normalizes news sources, using SQLite transactions to ensure reliable local archiving.
+*   **Tech Stack:** `Python`, `SQLite Database`, `Scheduled Automations`
+*   **Deliverables:** Safe database transaction handling, scheduled data fetching, and local SQLite data snapshots.
+
+![Developer News Signal Pipeline Diagram](developer-news-signal-pipeline-showcase.jpg)
+
+---
+
+## 🛠️ Unified Tech Stack
+
+*   **Languages & Scripting:** PowerShell, Python, Bash, SQL, TypeScript/JavaScript
+*   **Cloud & DevSecOps:** AWS (EC2, ECS/Fargate, IAM, Boto3), Terraform (IaC), Docker, GitHub Actions, Trivy
+*   **Systems & Databases:** Windows Server Administration, PostgreSQL, SQLite, Firestore
+*   **ITSM & Support:** ITIL Service Cataloging, SLA Workflow Design, Incident Alert Routing
+
+*Feel free to explore my repositories to see how I build and deploy these automation tools.*
