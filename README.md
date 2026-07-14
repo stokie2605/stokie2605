@@ -57,6 +57,16 @@ An end-to-end UX copywriting, messaging architecture, and high-performance visua
 *Note: You can replace the image URL above with the actual path to your layout concept screenshots stored in your repository assets!*
 ---
 
+### [💻 School IT Support Digital Operations & UX Refresh](https://github.com/stokie2605/school-it-support-refresh)
+UX copywriting refresh and messaging architecture mapping complex IT support workflows to plain-English value propositions for non-technical education sector buyers.
+
+* **Tech Stack:** HTML5, Tailwind CSS, Visual Concept Assets, SEO Heuristics
+* **Deliverables:** Component-driven layout wireframes, search engine keyword frameworks, and B2B user-journey optimizations.
+
+<img src="https://raw.githubusercontent.com/stokie2605/school-it-support-refresh/main/assets/01_hero_section.png" width="100%" alt="School IT Support Digital Operations & UX Refresh Preview" />
+
+---
+
 ## 🛠️ Unified Tech Stack
 * **Languages & Environments:** TypeScript, JavaScript (ES6+), Python, Node.js, HTML5/CSS3, HCL (Terraform)
 * **Frameworks & UI:** React, Vite, FastAPI, Express, Tailwind CSS, CSS Modules
