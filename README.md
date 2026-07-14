@@ -44,7 +44,17 @@ An asynchronous data ingestion pipeline written in Python that streams, filters,
 A compilation of visual concept layouts, dashboard components, and responsive wireframes built using modern CSS variables and Tailwind theme configurations.
 
 <img src="assets/frontend-concept-montage.jpg" width="700" alt="Frontend Concepts Showcase" />
+### 💻 School IT Support Digital Operations & UX Refresh
+An end-to-end UX copywriting, messaging architecture, and high-performance visual concept mapping project delivered for an education IT support provider. Translated complex, technical infrastructure SLAs into high-converting, plain-English propositions for non-technical school leaders.
 
+* **The Tech Stack:** HTML5, Tailwind CSS, Visual Concept Assets, SEO Heuristics
+* **Core Deliverables:** Component-driven layout wireframes, search engine keyword frameworks, and B2B user-journey optimizations.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stokie2605/school-it-support-refresh/main/assets/hero_section_screenshot.png" width="100%" alt="School IT Support Hero Layout Concept" />
+</p>
+
+*Note: You can replace the image URL above with the actual path to your layout concept screenshots stored in your repository assets!*
 ---
 
 ## 🛠️ Unified Tech Stack
