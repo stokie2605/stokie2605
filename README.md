@@ -10,31 +10,27 @@ I'm looking to transition into an office-based or technical role—like Inventor
 
 ## 💻 Selected Engineering Projects
 
-### 1. [UK EPC Compliance Auditor](https://github.com/stokie2605/uk-epc-auditor)
-A property compliance dashboard exploring EPC/MEES checks, address matching, and portfolio risk summaries.
+### 1. [Cloud-Native Task Automator](https://github.com/stokie2605/cloud-native-task-automator)
+An Infrastructure-as-Code (IaC) deployment pipeline automating containerized task execution under AWS ECS/Fargate using Terraform. Integrates GitHub Actions CI/CD to handle automated builds and static scanning.
 
-<img src="uk-epc-dark.png" width="340" alt="UK EPC Auditor Dark Mode" /> <img src="uk-epc-light.png" width="340" alt="UK EPC Auditor Light Mode" />
+<img src="cloud-native-task-automator-showcase.jpg" width="700" alt="Cloud-Native Task Automator Architecture" />
 
 ---
 
-### 2. [Cloud Cost Guardian](https://github.com/stokie2605/cloud-cost-guardian)
+### 2. [PowerShell IT Automation](https://github.com/stokie2605/powershell-it-automation)
+A suite of robust PowerShell scripts built for systems administration, automating repetitive Windows operational tasks, data extraction, and bulk endpoint management workflows.
+
+---
+
+### 3. [Cloud Cost Guardian](https://github.com/stokie2605/cloud-cost-guardian)
 An AWS utility tracking unattached EBS volumes and idle Elastic IPs via Boto3. It calculates estimated cost leakages and renders resource metrics through a React data dashboard to provide visual insights into cloud spend.
 
 <img src="cloud-cost-guardian-dark.png" width="340" alt="Cloud Cost Guardian Dark" /> <img src="cloud-cost-guardian-light.png" width="340" alt="Cloud Cost Guardian Light" />
 
 ---
 
-### 3. [Save Our Supper — Foodbank Pipeline](https://github.com/stokie2605/save-our-supper)
-An operations dashboard built for local charity intake coordination. Features live referral queues and Firestore Security Rules to manage incoming data safely and efficiently.
-
-<img src="save-our-supper-dark.png" width="340" alt="Save Our Supper Dark" /> <img src="save-our-supper-light.png" width="340" alt="Save Our Supper Light" />
-
----
-
-### 4. [Cloud-Native Task Automator](https://github.com/stokie2605/cloud-native-task-automator)
-An Infrastructure-as-Code (IaC) deployment pipeline automating containerized task execution under AWS ECS/Fargate using Terraform. Integrates GitHub Actions CI/CD to handle automated builds and static scanning.
-
-<img src="cloud-native-task-automator-showcase.jpg" width="700" alt="Cloud-Native Task Automator Architecture" />
+### 4. [IT Ticket Dashboard](https://github.com/stokie2605/it-ticket-dashboard)
+An operational helpdesk dashboard designed to streamline IT support requests, monitor ticket SLAs, and optimize incident resolution tracking for frontline support teams.
 
 ---
 
@@ -45,14 +41,14 @@ An asynchronous data ingestion pipeline written in Python that streams, filters,
 
 ---
 
-## 🎨 UI/UX Design & Frontend Concepts
+### 6. [Local Business Design Showcases](https://github.com/stokie2605/local-business-design-showcases)
 A compilation of visual concept layouts, dashboard components, and responsive wireframes built using modern CSS variables and Tailwind theme configurations.
 
 <img src="assets/frontend-concept-montage.jpg" width="700" alt="Frontend Concepts Showcase" />
 
 ---
 
-### [💻 School IT Support Digital Operations & UX Refresh](https://github.com/stokie2605/school-it-support-refresh)
+### 7. [School IT Support Digital Operations & UX Refresh](https://github.com/stokie2605/school-it-support-refresh)
 UX copywriting refresh and messaging architecture mapping complex IT support workflows to plain-English value propositions for non-technical education sector buyers.
 
 * **Tech Stack:** HTML5, Tailwind CSS, Visual Concept Assets, SEO Heuristics
