@@ -77,7 +77,7 @@ A compilation of visual concept layouts, dashboard components, and responsive wi
 ---
 
 ## 🛠️ Unified Tech Stack
-* **Languages & Environments:** TypeScript, JavaScript (ES6+), Python, Node.js, HTML5/CSS3, HCL (Terraform)
+* **Languages & Environments:** TypeScript, JavaScript (ES6+), Python, PowerShell, Bash, Node.js, HTML5/CSS3, HCL (Terraform)
 * **Frameworks & UI:** React, Vite, FastAPI, Express, Tailwind CSS, CSS Modules
 * **Cloud & DevOps:** AWS (ECS/Fargate), Terraform, Docker, Docker Compose, GitHub Actions CI/CD
 * **Databases:** Supabase (PostgreSQL), Firebase Firestore, SQLite
@@ -85,8 +85,8 @@ A compilation of visual concept layouts, dashboard components, and responsive wi
 *Feel free to explore my repositories to see how I build and deploy these workflows.*
 
 
-## Recent Architectural Upgrades
-- **Structural Hygiene:** Reorganized the repository into distinct `src/`, `backend/`, and `tests/` directories.
-- **Security Enhancements:** Implemented constant-time cryptographic token verification to prevent timing attacks.
-- **Database Schema Upgrades:** Refactored primitive types into native data structures (e.g., Dates and Times) for robust ORM integration.
-- **Code Hygiene:** Eradicated dead code, legacy logs, and enforced strict linting/testing standards.
+### Recent Project Cleanups & Upgrades
+* **Project Organization:** Cleaned up project folders by separating backend logic, frontend code, and testing suites.
+* **Security Fixes:** Swapped out weak authentication methods for secure hashing and tokens to protect user data.
+* **Database Tuning:** Reorganized database tables and data types to make queries run faster and handle dates/times properly.
+* **Code Cleanup:** Removed dead code, optimized slow loops, and set up strict linting rules to keep the codebase easy to read.
