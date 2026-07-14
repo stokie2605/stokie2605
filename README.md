@@ -1,7 +1,10 @@
-# Hi, I'm Dean (@stokie2605) 🛠️
-> **IT Automation & Backend Operations Specialist**
-> 
-> *Industrial Operations meets IT Automation.* With a strong physical background in industrial and warehouse operations, I have a deep understanding of complex, real-world workflows. I am an AI-Native Automation Builder who leverages Python, PowerShell, SQL, and AI tools to solve physical and digital efficiency problems. I specialize in practical, resilient infrastructure, scripting, and data operations—building robust backend scripts, queries, and pipelines rather than generic frontend designs.
+## Hi, I'm Dean (@stokie2605) 🛠️
+
+I have a background working on the ground in industrial and warehouse operations. Since early 2025, I’ve been teaching myself how to code and use AI to automate repetitive tasks and build practical tools.
+
+While I can build clean, responsive frontends and user interfaces when needed, my real strength and focus is on the backbone stuff: writing Python and PowerShell scripts to handle data, working with SQL databases, and using Docker and AWS to keep things running smoothly. I use modern AI tools as a co-pilot to help me build, test, and troubleshoot systems quickly.
+
+I'm looking to transition into an office-based or technical role—like Inventory Control, Logistics Tech, IT Support, or Junior Development—where I can use my real-world warehouse experience alongside these tech skills to solve actual problems.
 
 ---
 
