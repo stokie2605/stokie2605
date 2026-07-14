@@ -1,5 +1,7 @@
 # Hi, I'm Dean (@stokie2605) 🛠️
-> Full-stack developer focused on operational web apps, automation tools, cloud workflows, and data pipelines.
+> **IT Automation & Backend Operations Specialist**
+> 
+> *Industrial Operations meets IT Automation.* With a strong physical background in industrial and warehouse operations, I have a deep understanding of complex, real-world workflows. I am an AI-Native Automation Builder who leverages Python, PowerShell, SQL, and AI tools to solve physical and digital efficiency problems. I specialize in practical, resilient infrastructure, scripting, and data operations—building robust backend scripts, queries, and pipelines rather than generic frontend designs.
 
 ---
 
