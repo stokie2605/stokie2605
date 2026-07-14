@@ -10,51 +10,69 @@ I'm looking to transition into an office-based or technical role—like Inventor
 
 ## 💻 Selected Engineering Projects
 
-### 1. [Cloud-Native Task Automator](https://github.com/stokie2605/cloud-native-task-automator)
-An Infrastructure-as-Code (IaC) deployment pipeline automating containerized task execution under AWS ECS/Fargate using Terraform. Integrates GitHub Actions CI/CD to handle automated builds and static scanning.
+### 1. [School IT Support Digital Operations & UX Refresh](https://github.com/stokie2605/school-it-support-refresh)
+UX copywriting refresh and messaging architecture mapping complex IT support workflows to plain-English value propositions for non-technical education sector buyers.
 
-<img src="cloud-native-task-automator-showcase.jpg" width="700" alt="Cloud-Native Task Automator Architecture" />
+* **Tech Stack:** HTML5, Tailwind CSS, Visual Concept Assets, SEO Heuristics
+* **Deliverables:** Component-driven layout wireframes, search engine keyword frameworks, and B2B user-journey optimizations.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/stokie2605/school-it-support-refresh/main/assets/01_hero_section.png" width="750" alt="School IT Support Digital Operations & UX Refresh Preview" />
+</div>
 
 ---
 
 ### 2. [PowerShell IT Automation](https://github.com/stokie2605/powershell-it-automation)
 A suite of robust PowerShell scripts built for systems administration, automating repetitive Windows operational tasks, data extraction, and bulk endpoint management workflows.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/stokie2605/powershell-it-automation/main/Screenshot%202026-06-08%20162913.png" width="750" alt="PowerShell IT Automation Preview" />
+</div>
+
 ---
 
-### 3. [Cloud Cost Guardian](https://github.com/stokie2605/cloud-cost-guardian)
-An AWS utility tracking unattached EBS volumes and idle Elastic IPs via Boto3. It calculates estimated cost leakages and renders resource metrics through a React data dashboard to provide visual insights into cloud spend.
+### 3. [Cloud-Native Task Automator](https://github.com/stokie2605/cloud-native-task-automator)
+An Infrastructure-as-Code (IaC) deployment pipeline automating containerized task execution under AWS ECS/Fargate using Terraform. Integrates GitHub Actions CI/CD to handle automated builds and static scanning.
 
-<img src="cloud-cost-guardian-dark.png" width="340" alt="Cloud Cost Guardian Dark" /> <img src="cloud-cost-guardian-light.png" width="340" alt="Cloud Cost Guardian Light" />
+<div align="center">
+  <img src="cloud-native-task-automator-showcase.jpg" width="750" alt="Cloud-Native Task Automator Architecture" />
+</div>
 
 ---
 
 ### 4. [IT Ticket Dashboard](https://github.com/stokie2605/it-ticket-dashboard)
 An operational helpdesk dashboard designed to streamline IT support requests, monitor ticket SLAs, and optimize incident resolution tracking for frontline support teams.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/stokie2605/it-ticket-dashboard/main/screenshots/ticket-dashboard-preview.png" width="750" alt="IT Ticket Dashboard Preview" />
+</div>
+
 ---
 
-### 5. [Developer News Signal Pipeline](https://github.com/stokie2605/developer-news-signal-pipeline)
+### 5. [Cloud Cost Guardian](https://github.com/stokie2605/cloud-cost-guardian)
+An AWS utility tracking unattached EBS volumes and idle Elastic IPs via Boto3. It calculates estimated cost leakages and renders resource metrics through a React data dashboard to provide visual insights into cloud spend.
+
+<div align="center">
+  <img src="cloud-cost-guardian-dark.png" width="340" alt="Cloud Cost Guardian Dark" /> <img src="cloud-cost-guardian-light.png" width="340" alt="Cloud Cost Guardian Light" />
+</div>
+
+---
+
+### 6. [Developer News Signal Pipeline](https://github.com/stokie2605/developer-news-signal-pipeline)
 An asynchronous data ingestion pipeline written in Python that streams, filters, and normalizes Hacker News API endpoints using keyword scoring heuristics. Outputs structured relational SQLite database snapshots for offline querying.
 
-<img src="developer-news-signal-pipeline-showcase.jpg" width="700" alt="Developer News Signal Pipeline Architecture" />
+<div align="center">
+  <img src="developer-news-signal-pipeline-showcase.jpg" width="750" alt="Developer News Signal Pipeline Architecture" />
+</div>
 
 ---
 
-### 6. [Local Business Design Showcases](https://github.com/stokie2605/local-business-design-showcases)
+### 7. [Local Business Design Showcases](https://github.com/stokie2605/local-business-design-showcases)
 A compilation of visual concept layouts, dashboard components, and responsive wireframes built using modern CSS variables and Tailwind theme configurations.
 
-<img src="assets/frontend-concept-montage.jpg" width="700" alt="Frontend Concepts Showcase" />
-
----
-
-### 7. [School IT Support Digital Operations & UX Refresh](https://github.com/stokie2605/school-it-support-refresh)
-UX copywriting refresh and messaging architecture mapping complex IT support workflows to plain-English value propositions for non-technical education sector buyers.
-
-* **Tech Stack:** HTML5, Tailwind CSS, Visual Concept Assets, SEO Heuristics
-* **Deliverables:** Component-driven layout wireframes, search engine keyword frameworks, and B2B user-journey optimizations.
-
-<img src="https://raw.githubusercontent.com/stokie2605/school-it-support-refresh/main/assets/01_hero_section.png" width="700" alt="School IT Support Digital Operations & UX Refresh Preview" />
+<div align="center">
+  <img src="assets/frontend-concept-montage.jpg" width="750" alt="Frontend Concepts Showcase" />
+</div>
 
 ---
 
