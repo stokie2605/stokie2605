@@ -30,19 +30,9 @@ ITIL Service Catalog Design and SLA Communication mapping. Translates complex op
 
 ---
 
-### 2. [PowerShell IT Automation Suite](https://github.com/stokie2605/powershell-it-automation)
-A modular suite of robust systems administration scripts utilizing native WMI/CIM cmdlets to audit hardware metrics, verify disk health parameters, and export timestamped endpoint diagnostics.
 
-* **Tech Stack:** PowerShell, WMI/CIM Cmdlets, Pester (Unit Testing)
-* **Deliverables:** Automated local workspace directory provisioning, hardware audits, and network interface diagnostic loops.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/stokie2605/powershell-it-automation/main/Screenshot%202026-06-08%20162913.png" width="750" alt="PowerShell IT Automation Preview" />
-</div>
-
----
-
-### 3. [Cloud-Native Task Automator](https://github.com/stokie2605/cloud-native-task-automator)
+### 2. [Cloud-Native Task Automator](https://github.com/stokie2605/cloud-native-task-automator)
 An Infrastructure-as-Code (IaC) continuous deployment pipeline automating containerized task execution on AWS ECS/Fargate cluster environments, secured by Trivy vulnerability gates.
 
 * **Tech Stack:** Terraform (IaC), AWS ECS/Fargate, Docker, GitHub Actions, Trivy
@@ -54,7 +44,7 @@ An Infrastructure-as-Code (IaC) continuous deployment pipeline automating contai
 
 ---
 
-### 4. [Cloud Cost Guardian](https://github.com/stokie2605/cloud-cost-guardian)
+### 3. [Cloud Cost Guardian](https://github.com/stokie2605/cloud-cost-guardian)
 An AWS FinOps automation scanner utilizing the Boto3 SDK to query cloud assets for cost leakage, orphaned EBS volumes, and unassociated Elastic IPs.
 
 * **Tech Stack:** Python (Boto3 SDK), AWS CLI, FinOps Governance, React (Operations Console)
@@ -66,7 +56,7 @@ An AWS FinOps automation scanner utilizing the Boto3 SDK to query cloud assets f
 
 ---
 
-### 5. [Developer News Signal Pipeline](https://github.com/stokie2605/developer-news-signal-pipeline)
+### 4. [Developer News Signal Pipeline](https://github.com/stokie2605/developer-news-signal-pipeline)
 An unattended, cron-scheduled data-ingestion pipeline written in Python. Handles API endpoints, parsing data, and committing relational updates safely inside a transactional SQLite database.
 
 * **Tech Stack:** Python, SQLite, Cron Automations, pytest
@@ -78,7 +68,7 @@ An unattended, cron-scheduled data-ingestion pipeline written in Python. Handles
 
 ---
 
-### 6. [RotaCare (staff-rota)](https://github.com/stokie2605/staff-rota)
+### 5. [RotaCare (staff-rota)](https://github.com/stokie2605/staff-rota)
 A full-stack, industry-agnostic healthcare staff scheduling platform designed to streamline shift management, track staff hours, and manage absences seamlessly.
 
 * **Tech Stack:** React 18, Vite, FastAPI, SQLModel, SQLite
@@ -90,7 +80,7 @@ A full-stack, industry-agnostic healthcare staff scheduling platform designed to
 
 ---
 
-### 7. [Client Mockups & Local Business Web Designs](https://github.com/stokie2605/client-mockups)
+### 6. [Client Mockups & Local Business Web Designs](https://github.com/stokie2605/client-mockups)
 An anonymous, mobile-first portfolio showcasing high-converting UI/UX designs built for local business niches (HVAC, IT Support, Accounting, Scaffolding, Telecoms).
 
 * **Tech Stack:** HTML5, Tailwind CSS, Responsive Design, GitHub Pages
