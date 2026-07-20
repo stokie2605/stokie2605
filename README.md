@@ -54,19 +54,7 @@ An Infrastructure-as-Code (IaC) continuous deployment pipeline automating contai
 
 ---
 
-### 4. [IT Ticket Dashboard](https://github.com/stokie2605/it-ticket-dashboard)
-A service desk ITSM ticket dashboard designed to enforce incident lifecycles and record database security audits on PostgreSQL via Supabase.
-
-* **Tech Stack:** PostgreSQL, Supabase, PostgREST API, Tailwind CSS, Operational UI
-* **Deliverables:** Service desk ticket routing rules, automated priority escalations, and row-level database security policies (RLS).
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/stokie2605/it-ticket-dashboard/main/screenshots/ticket-dashboard-preview.png" width="750" alt="IT Ticket Dashboard Preview" />
-</div>
-
----
-
-### 5. [Cloud Cost Guardian](https://github.com/stokie2605/cloud-cost-guardian)
+### 4. [Cloud Cost Guardian](https://github.com/stokie2605/cloud-cost-guardian)
 An AWS FinOps automation scanner utilizing the Boto3 SDK to query cloud assets for cost leakage, orphaned EBS volumes, and unassociated Elastic IPs.
 
 * **Tech Stack:** Python (Boto3 SDK), AWS CLI, FinOps Governance, React (Operations Console)
@@ -78,7 +66,7 @@ An AWS FinOps automation scanner utilizing the Boto3 SDK to query cloud assets f
 
 ---
 
-### 6. [Developer News Signal Pipeline](https://github.com/stokie2605/developer-news-signal-pipeline)
+### 5. [Developer News Signal Pipeline](https://github.com/stokie2605/developer-news-signal-pipeline)
 An unattended, cron-scheduled data-ingestion pipeline written in Python. Handles API endpoints, parsing data, and committing relational updates safely inside a transactional SQLite database.
 
 * **Tech Stack:** Python, SQLite, Cron Automations, pytest
@@ -90,14 +78,14 @@ An unattended, cron-scheduled data-ingestion pipeline written in Python. Handles
 
 ---
 
-### 7. [Local Business Design Showcases](https://github.com/stokie2605/local-business-design-showcases)
-High-performance, mobile-first static asset templates engineered with CDN configuration rules, asset caching strategies, and WCAG accessibility standards.
+### 6. [RotaCare (staff-rota)](https://github.com/stokie2605/staff-rota)
+A full-stack, industry-agnostic healthcare staff scheduling platform designed to streamline shift management, track staff hours, and manage absences seamlessly.
 
-* **Tech Stack:** HTML5, Tailwind CSS, CDN Caching, WCAG a11y Audits
-* **Deliverables:** High-performance static web assets, cache-control configurations, and accessibility compliance reporting.
+* **Tech Stack:** React 18, Vite, FastAPI, SQLModel, SQLite
+* **Deliverables:** Interactive Gantt Rota with drag-and-drop, real-time absence conflict detection, full database persistence with optimistic UI offline fallbacks.
 
 <div align="center">
-  <img src="assets/frontend-concept-montage.jpg" width="750" alt="Frontend Concepts Showcase" />
+  <!-- Note: Add a screenshot of RotaCare here in the future -->
 </div>
 
 ---
