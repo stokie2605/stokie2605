@@ -96,6 +96,12 @@ An anonymous, mobile-first portfolio showcasing high-converting UI/UX designs bu
 * **Tech Stack:** HTML5, Tailwind CSS, Responsive Design, GitHub Pages
 * **Deliverables:** Reusable component library, automated local git deployment workflow, multi-client showcase gallery.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/stokie2605/client-mockups/master/scaffolding-contractors/preview.png" width="240" alt="Scaffolding Mockup" style="margin: 0 5px;" />
+  <img src="https://raw.githubusercontent.com/stokie2605/client-mockups/master/accountancy-firm/preview.png" width="240" alt="Accountancy Mockup" style="margin: 0 5px;" />
+  <img src="https://raw.githubusercontent.com/stokie2605/client-mockups/master/it-hardware-store/preview.png" width="240" alt="Hardware Store Mockup" style="margin: 0 5px;" />
+</div>
+
 ---
 
 ## 🛠️ Unified Tech Stack
