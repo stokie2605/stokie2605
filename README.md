@@ -90,6 +90,14 @@ A full-stack, industry-agnostic healthcare staff scheduling platform designed to
 
 ---
 
+### 8. [Client Mockups & Local Business Web Designs](https://github.com/stokie2605/client-mockups)
+An anonymous, mobile-first portfolio showcasing high-converting UI/UX designs built for local business niches (HVAC, IT Support, Accounting, Scaffolding, Telecoms).
+
+* **Tech Stack:** HTML5, Tailwind CSS, Responsive Design, GitHub Pages
+* **Deliverables:** Reusable component library, automated local git deployment workflow, multi-client showcase gallery.
+
+---
+
 ## 🛠️ Unified Tech Stack
 
 * **Languages & Scripting:** PowerShell, Python, Bash, SQL, TypeScript/JavaScript
