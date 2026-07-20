@@ -84,10 +84,6 @@ A full-stack, industry-agnostic healthcare staff scheduling platform designed to
 * **Tech Stack:** React 18, Vite, FastAPI, SQLModel, SQLite
 * **Deliverables:** Interactive Gantt Rota with drag-and-drop, real-time absence conflict detection, full database persistence with optimistic UI offline fallbacks.
 
-<div align="center">
-  <!-- Note: Add a screenshot of RotaCare here in the future -->
-</div>
-
 ---
 
 ## 🛠️ Unified Tech Stack
