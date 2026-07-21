@@ -89,19 +89,10 @@ An anonymous, mobile-first portfolio showcasing high-converting UI/UX designs bu
 <table align="center">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/stokie2605/client-mockups/master/telecoms-landing-page/preview.png" width="350" alt="Telecoms Mockup" /></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/stokie2605/client-mockups/master/it-hardware-store/preview.png" width="350" alt="Hardware Store Mockup" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/stokie2605/client-mockups/master/accountancy-firm/preview.png" width="350" alt="Accountancy Mockup" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/stokie2605/client-mockups/master/managed-it-services/preview.png" width="350" alt="Managed IT Mockup" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/stokie2605/client-mockups/master/hvac-cooling-specialist/preview.png" width="350" alt="HVAC Mockup" /></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/stokie2605/client-mockups/master/bookkeeping-service/preview.png" width="350" alt="Bookkeeping Mockup" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/stokie2605/client-mockups/master/scaffolding-contractors/preview.png" width="350" alt="Scaffolding Mockup 1" /></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/stokie2605/client-mockups/master/scaffolding-contractors/preview2.png" width="350" alt="Scaffolding Mockup 2" /></td>
+    <td align="center" colspan="2"><img src="https://raw.githubusercontent.com/stokie2605/client-mockups/master/scaffolding-contractors/preview.png" width="350" alt="Scaffolding Mockup" /></td>
   </tr>
 </table>
 
