@@ -9,7 +9,7 @@
 ---
 
 ### 📡 ABOUT_ME
-I spent 25 years in operations and logistics—managing cross-docking operations, high-risk audits, and compliance for AAH Pharmaceuticals. Now, I bring that same strict, zero-error operational discipline to modern web development. 
+I spent 25 years working in various warehousing and logistics roles, including a solid decade at AAH Pharmaceuticals. Now, I bring that same strict, hard-working operational discipline to modern web development. 
 
 I recently graduated with Distinction from a Level 3 Skills Bootcamp in Product-Led AI Builders. I specialize in building custom, high-converting digital systems and web apps.
 
