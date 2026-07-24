@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cyberpunk_github_banner_1784890824240.jpg" alt="Cyberpunk Banner" width="100%">
+  <img src="cyberpunk_github_banner_1784890824240.jpg" alt="Cyberpunk Banner" width="70%">
   
   # >_ SYS_AGENT // DEAN WILSHAW
   ### 🚀 Full-Stack Web Developer & AI Automation Builder
