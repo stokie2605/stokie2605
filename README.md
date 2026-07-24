@@ -37,20 +37,39 @@ I recently graduated with Distinction from a Level 3 Skills Bootcamp in Product-
 ### 📊 SYSTEM_ACTIVITY
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stokie2605&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=stokie2605&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stokie2605&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stokie2605&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=stokie2605&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
 
 ### 📂 MISSION_LOGS (Key Projects)
-- 🔒 **Cloud-Native Task Automator:** AWS ECS/Fargate task runner provisioned via Terraform IaC.
-- 💰 **Cloud-Cost Guardian:** AWS FinOps scanner and React dashboard for identifying resource waste.
-- 📅 **Staff Rota:** FastAPI & React shift scheduler enforcing conflict prevention.
-- 💻 **Client Mockups:** High-converting, mobile-first UI/UX designs for local businesses.
+
+<div align="center">
+  <a href="https://github.com/stokie2605/school-it-support-refresh">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=stokie2605&repo=school-it-support-refresh&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="school-it-support-refresh" />
+  </a>
+  <a href="https://github.com/stokie2605/cloud-native-task-automator">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=stokie2605&repo=cloud-native-task-automator&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="cloud-native-task-automator" />
+  </a>
+  <br />
+  <a href="https://github.com/stokie2605/cloud-cost-guardian">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=stokie2605&repo=cloud-cost-guardian&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="cloud-cost-guardian" />
+  </a>
+  <a href="https://github.com/stokie2605/developer-news-signal-pipeline">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=stokie2605&repo=developer-news-signal-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="developer-news-signal-pipeline" />
+  </a>
+  <br />
+  <a href="https://github.com/stokie2605/staff-rota">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=stokie2605&repo=staff-rota&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="staff-rota" />
+  </a>
+  <a href="https://github.com/stokie2605/client-mockups">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=stokie2605&repo=client-mockups&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="client-mockups" />
+  </a>
+</div>
