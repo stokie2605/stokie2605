@@ -11,7 +11,6 @@ In an industry where reliability is rare, I pride myself on turning up, working 
 
 I recently graduated with Distinction from a Level 3 Skills Bootcamp in Product-Led AI Builders, and I specialise in building bespoke, lightning-fast sites from scratch.
 
-- 🔗 **Portfolio:** [dw-web-freelance.vercel.app](https://dw-web-freelance.vercel.app)
 - 📧 **Email:** [stokie2605@gmail.com](mailto:stokie2605@gmail.com)
 - 💼 **LinkedIn:** [Dean Wilshaw](https://www.linkedin.com/in/dean-wilshaw-239b4b379)
 
