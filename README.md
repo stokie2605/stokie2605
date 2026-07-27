@@ -70,9 +70,9 @@ I recently graduated with Distinction from a Level 3 Skills Bootcamp in Product-
 | Project / Client Concept | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **School IT Support Refresh** | Modernizing legacy school IT systems, delivering clean, maintainable code with a focus on speed and reliability. | React, CSS | [View Repo](https://github.com/stokie2605/school-it-support-refresh) |
-| **Six Knutsford / Cheshire** | Concept mockup for a 3-venue hospitality group. Unifies their brands under a mobile-first UI with a clean events/booking bento grid. | React, Vite, Tailwind | [View Concepts](https://github.com/stokie2605/client-mockups) |
-| **The Horseshoe Inn** | Modernization concept for a local pub fixing broken PDF menus with responsive, tabbed digital menus to drive mobile table bookings. | React, Vite, Tailwind | [View Concepts](https://github.com/stokie2605/client-mockups) |
-| **JMD Garden Maintenance** | Lead-generation site concept for a local tradesperson running purely off Facebook, adding proper SEO and direct quote forms. | React, Tailwind | [View Concepts](https://github.com/stokie2605/client-mockups) |
+| **Multi-Venue Hospitality Group** | Concept mockup for a 3-venue hospitality group. Unifies their brands under a mobile-first UI with a clean events/booking bento grid. | React, Vite, Tailwind | [View Concepts](https://github.com/stokie2605/client-mockups) |
+| **Country Pub & Restaurant** | Modernization concept for a local pub fixing broken PDF menus with responsive, tabbed digital menus to drive mobile table bookings. | React, Vite, Tailwind | [View Concepts](https://github.com/stokie2605/client-mockups) |
+| **Local Tradesperson & Landscaping** | Lead-generation site concept for a local tradesperson running purely off Facebook, adding proper SEO and direct quote forms. | React, Tailwind | [View Concepts](https://github.com/stokie2605/client-mockups) |
 
 <br />
 
