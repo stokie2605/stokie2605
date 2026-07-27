@@ -22,54 +22,36 @@ I recently graduated with Distinction from a Level 3 Skills Bootcamp in Product-
 ### 💻 TECH_STACK
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
 ---
 
-### 📊 SYSTEM_ACTIVITY
+### 🚀 FEATURED_PROJECTS
 
-<div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=stokie2605&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stokie2605&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+*(Make sure to update these with your actual projects!)*
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=stokie2605&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+- **[Project Name 1](https://github.com/stokie2605/project-repo-link)** - A brief 1-2 sentence description of what this project does and the tech stack used. [Live Demo](https://your-demo-link.com)
+- **[Project Name 2](https://github.com/stokie2605/project-repo-link)** - A brief 1-2 sentence description of what this project does and the tech stack used. [Live Demo](https://your-demo-link.com)
 
 ---
 
-### 📂 MISSION_LOGS (Key Projects)
+### ⚡ CURRENT_STATUS
+
+- 🔭 **Currently working on:** Building highly responsive, AI-integrated web applications.
+- 🌱 **Currently learning:** Advanced AI integrations and modern frontend architectures.
+- 💬 **Ask me about:** React, Next.js, Product-Led AI, and transitioning careers into tech!
+
+---
 
 <div align="center">
-  <a href="https://github.com/stokie2605/school-it-support-refresh">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=stokie2605&repo=school-it-support-refresh&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="school-it-support-refresh" />
-  </a>
-  <a href="https://github.com/stokie2605/cloud-native-task-automator">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=stokie2605&repo=cloud-native-task-automator&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="cloud-native-task-automator" />
-  </a>
-  <br />
-  <a href="https://github.com/stokie2605/cloud-cost-guardian">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=stokie2605&repo=cloud-cost-guardian&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="cloud-cost-guardian" />
-  </a>
-  <a href="https://github.com/stokie2605/developer-news-signal-pipeline">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=stokie2605&repo=developer-news-signal-pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="developer-news-signal-pipeline" />
-  </a>
-  <br />
-  <a href="https://github.com/stokie2605/staff-rota">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=stokie2605&repo=staff-rota&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="staff-rota" />
-  </a>
-  <a href="https://github.com/stokie2605/client-mockups">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=stokie2605&repo=client-mockups&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="client-mockups" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=stokie2605&show_icons=true&theme=tokyonight" alt="Dean's GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stokie2605&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
