@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="cyberpunk_github_banner_1784890824240.jpg" alt="Dean Wilshaw Banner" width="100%" style="border-radius: 10px;">
-  
   <br />
   <br />
 
@@ -8,7 +6,6 @@
   ### 🚀 Freelance Web Developer & AI Integration Specialist
   *Based in Cheshire & Staffordshire, UK*
   
-  [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dw-web-freelance.vercel.app)
   [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stokie2605@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dean-wilshaw-239b4b379)
 </div>
@@ -21,9 +18,9 @@
 
 > **"I spent 25 years working in warehousing and logistics, including a solid decade at AAH Pharmaceuticals. Now, I bring that same strict, hard-working operational discipline to modern web development."**
 
-In an industry where reliability is rare, I pride myself on turning up, working hard, and delivering high-converting digital systems and web apps that solve real business problems.
+In an industry where reliability is rare, I pride myself on turning up, working hard, and delivering high-converting digital systems and web apps that solve real problems.
 
-I recently graduated with Distinction from a Level 3 Skills Bootcamp in Product-Led AI Builders, and I specialise in building bespoke, lightning-fast sites from scratch.
+I recently graduated with Distinction from a Level 3 Skills Bootcamp in Product-Led AI Builders, and I specialise in building bespoke, lightning-fast sites from scratch using modern React frameworks.
 
 <br />
 
@@ -37,7 +34,6 @@ I recently graduated with Distinction from a Level 3 Skills Bootcamp in Product-
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
 <br />
@@ -48,11 +44,10 @@ I recently graduated with Distinction from a Level 3 Skills Bootcamp in Product-
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Freelance Web Agency Portfolio** | A lightning-fast, mobile-first portfolio built to generate local business leads. Features a custom AI chatbot (Google Gemini API) with smart offline fallbacks and Resend email quoting. | React, Vite, Tailwind, Serverless | [Live Demo](https://dw-web-freelance.vercel.app) |
 | **School IT Support Refresh** | Modernizing legacy school IT systems, delivering clean, maintainable code with a focus on speed and reliability. | React, CSS | [View Repo](https://github.com/stokie2605/school-it-support-refresh) |
 
 <br />
 
 <div align="center">
-  <i>"Building fast, premium websites for businesses who want to stand out."</i>
+  <i>"Building fast, premium websites for those who want to stand out."</i>
 </div>
