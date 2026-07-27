@@ -1,40 +1,58 @@
-# Dean Wilshaw
-### 🚀 Freelance Web Developer & AI Integration Specialist
-*Based in Cheshire & Staffordshire, UK*
+<div align="center">
+  <img src="cyberpunk_github_banner_1784890824240.jpg" alt="Dean Wilshaw Banner" width="100%" style="border-radius: 10px;">
+  
+  <br />
+  <br />
+
+  # DEAN WILSHAW
+  ### 🚀 Freelance Web Developer & AI Integration Specialist
+  *Based in Cheshire & Staffordshire, UK*
+  
+  [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dw-web-freelance.vercel.app)
+  [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stokie2605@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dean-wilshaw-239b4b379)
+</div>
+
+<br />
 
 ---
 
 ### 📡 About Me
-I spent 25 years working in various warehousing and logistics roles, including a solid decade at AAH Pharmaceuticals. Now, I bring that same strict, hard-working operational discipline to modern web development. 
+
+> **"I spent 25 years working in warehousing and logistics, including a solid decade at AAH Pharmaceuticals. Now, I bring that same strict, hard-working operational discipline to modern web development."**
 
 In an industry where reliability is rare, I pride myself on turning up, working hard, and delivering high-converting digital systems and web apps that solve real business problems.
 
 I recently graduated with Distinction from a Level 3 Skills Bootcamp in Product-Led AI Builders, and I specialise in building bespoke, lightning-fast sites from scratch.
 
-- 📧 **Email:** [stokie2605@gmail.com](mailto:stokie2605@gmail.com)
-- 💼 **LinkedIn:** [Dean Wilshaw](https://www.linkedin.com/in/dean-wilshaw-239b4b379)
+<br />
 
 ---
 
 ### 💻 Tech Stack
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
+
+<br />
 
 ---
 
 ### 🏆 Featured Projects
 
-#### 1. [Dean Wilshaw Freelance Portfolio](https://dw-web-freelance.vercel.app)
-A lightning-fast, mobile-first portfolio built to generate leads for my web development business.
-* **Tech:** React, Vite, Tailwind CSS, Vercel Serverless Functions
-* **Features:** Custom AI chatbot integration (Google Gemini REST API) with offline smart fallbacks, automated email quoting system via Resend, responsive bento-grid layouts.
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Freelance Web Agency Portfolio** | A lightning-fast, mobile-first portfolio built to generate local business leads. Features a custom AI chatbot (Google Gemini API) with smart offline fallbacks and Resend email quoting. | React, Vite, Tailwind, Serverless | [Live Demo](https://dw-web-freelance.vercel.app) |
+| **School IT Support Refresh** | Modernizing legacy school IT systems, delivering clean, maintainable code with a focus on speed and reliability. | React, CSS | [View Repo](https://github.com/stokie2605/school-it-support-refresh) |
 
-#### 2. [School IT Support Refresh](https://github.com/stokie2605/school-it-support-refresh)
-*A showcase of modernizing legacy systems and delivering clean, maintainable code.*
-* **Tech:** React, modern CSS
+<br />
+
+<div align="center">
+  <i>"Building fast, premium websites for businesses who want to stand out."</i>
+</div>
