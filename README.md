@@ -72,4 +72,4 @@ I run **Design Systems Web**, building bespoke websites, conversion-focused inte
 
 ## Work With Me
 
-Trade or local business in Stoke-on-Trent or Cheshire needing a website that brings in enquiries? Visit **[designsystemsweb.co.uk](https://designsystemsweb.co.uk)** or [email me](mailto:dean.wilshaw.web@gmail.com).
+Trade or local business in Stoke-on-Trent or Cheshire needing a website that brings in enquiries? Visit **[designsystemsweb.co.uk](https://designsystemsweb.co.uk)** or [email me]([![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dean.wilshaw.web@gmail.com)).
