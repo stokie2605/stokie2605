@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-designsystemsweb.co.uk-c0392b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://designsystemsweb.co.uk)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dean.wilshaw.web@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/dean-wilshaw)
 
 </div>
 
@@ -27,7 +27,7 @@ I run **Design Systems Web**, building bespoke websites, conversion-focused inte
 | Project | What it is | Stack | Link |
 |---|---|---|---|
 | **Design Systems Web** | My own business site. Single page, conversational layout with live lead tool demos running inside a phone mockup and a quote pipeline with reference numbering | React, Vite, TypeScript, Tailwind, Resend, Vercel | [Live site](https://designsystemsweb.co.uk) |
-| **Norden Carpets & Flooring** | Website for a carpet and flooring business in Rochdale | TypeScript, Cloudflare | [Live site](https://YOUR-NORDEN-URL) |
+| **Norden Carpets & Flooring** | Website for a carpet and flooring business in Rochdale | TypeScript, Cloudflare | [Live site](https://nordencarpets.co.uk) |
 
 ---
 
