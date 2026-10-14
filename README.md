@@ -7,7 +7,6 @@
 *Building fast websites and lead tools for trades and local businesses across Stoke-on-Trent and Cheshire*
 
 [![Website](https://img.shields.io/badge/Website-designsystemsweb.co.uk-c0392b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://designsystemsweb.co.uk)
-[![Email](https://img.shields.io/badge/Email-dean.wilshaw.web%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dean.wilshaw.web@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dean-wilshaw)
 
 </div>
@@ -72,4 +71,4 @@ I run **Design Systems Web**, building bespoke websites, conversion-focused inte
 
 ## Work With Me
 
-Trade or local business in Stoke-on-Trent or Cheshire needing a website that brings in enquiries? Visit **[designsystemsweb.co.uk](https://designsystemsweb.co.uk)** or [![Email](https://img.shields.io/badge/Email-dean.wilshaw.web%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dean.wilshaw.web@gmail.com)
+Trade or local business in Stoke-on-Trent or Cheshire needing a website that brings in enquiries? Visit **[designsystemsweb.co.uk](https://designsystemsweb.co.uk)** or email **[dean.wilshaw.web@gmail.com](https://mail.google.com/mail/?view=cm&to=dean.wilshaw.web@gmail.com)**
