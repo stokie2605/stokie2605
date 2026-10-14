@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-designsystemsweb.co.uk-c0392b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://designsystemsweb.co.uk)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dean.wilshaw.web@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/dean-wilshaw)
+[![LinkedIn]([![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dean-wilshaw))
 
 </div>
 
